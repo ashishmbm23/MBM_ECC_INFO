@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+   >
+
+
+    <TextView
+        android:id="@id/textView_title"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_gravity="center_horizontal"
+        android:layout_centerHorizontal="true"
+        android:background="#F1F8E9"
+        android:gravity="center"
+        android:text="Ashish"
+        android:textAllCaps="true"
+        android:textColor="#039BE5"
+        android:textSize="25.0sp" />
+
+    <ListView
+        android:id="@id/listView_semester"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/textView_title"
+        android:layout_marginBottom="@dimen/activity_vertical_margin"
+        android:layout_marginTop="@dimen/activity_vertical_margin"
+        android:layout_weight="1.22"
+        android:paddingTop="@dimen/activity_vertical_margin"
+        android:visibility="visible"></ListView>
+
+</LinearLayout>

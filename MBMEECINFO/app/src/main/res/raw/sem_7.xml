@@ -1,0 +1,120 @@
+<?xml version="1.0" ?>
+<semester>
+	<semID>7</semID>
+	<subject>
+		<subID>1</subID>
+		<subName>VLSI Design Techniques</subName>
+		<subSyllabus>
+Introduction:
+Layout and design rules, materials for VLSI fabrication basic algorithmic concepts for physical design, physical design processes and complexities.
+
+Partition:
+Kernigham – Lin’s algorithm, Fiduccia Mattheyes algorithm, Krishnamurty extension, hMETIS algorithm, multilevel partition techniques.
+
+Floor- planning:
+Hierarchical design, wirelength estimation, slicing, and non –slicing floorplan , polar graph representation, operator concept, Stockmeyer Algorithm for floorplanning, mixed integer linear program.
+
+Placement:
+Design types: ASICs SoC, microprocessor RLM; Placement techniques: Simulated annealing, partition – based, analytical, and Hall’s quadratic; Timing and congestion considerations.
+
+Routing:
+Detailed global and specialized routing channel ordering, channel routing problems ad constraint graphs routing algorithms, Yoshimura and Kuh’s method, zone scanning and net merging, boundary terminal problem, minimum density spanning forest problem, topological routing, cluster graph representation.
+
+Sequential Logic Optimization and Cell Binding:
+State based optimization, state minimization, algorithms; Library Binding and its algorithms, concurrent binding.
+		</subSyllabus>
+		<book>
+Vlsi Physical Design Automation - Sadiq M Sait, Habib Youssef
+
+Algorithms for VLSI Physical Design Automation - Naveed Sherwani
+		</book>
+	</subject>
+	
+	<subject>
+		<subID>2</subID>
+		<subName>Design of Operating System</subName>
+		<subSyllabus>
+Introduction to operating system, operating system functions, batch processing systems, multiprogramming systems, time sharing systems, real time operating systems.
+
+Process management, process concept, process scheduling, operation on processes, cooperating processes interprocess communication.
+
+CPU scheduling, scheduling algorithms first come first served, shortest job first, priority based, round robin, multilevel queue multilevel feedback queue.
+
+Process synchronization, critical section problem, semaphores, monitor. Deadlocks, prevention, deadlock avoidance, deadlock detection.
+
+Memory management, contiguous allocation, paging, segmentation, virtual memory, demand paging, page replacement, page replacement algorithms first in first out algorithms, optimal algorithm, least recently used algorithm.
+
+File concepts, directory structure, file protection, allocation of disk space.
+
+I/O systems, I/O hardware polling, interrupts, direct memory access. Disk scheduling, disk scheduling algorithms first come first served algorithms, shortest seek time first algorithm, SCAN algorithm, C-SCAN algorithm, C-LOOK algorithm.
+
+Protection and security in an operating system, access matrix capabilities
+			.</subSyllabus>
+		<book>Operating System Concepts - Abraham Silvershatz, Peter B Galvine , Greg Gagne
+		</book>
+	</subject>
+	
+	<subject>
+		<subID>3</subID>
+		<subName>Advance Communication systems</subName>
+		<subSyllabus>
+Line – of Sight and Troposcatter Communication:
+Principle of working and essential features of microwave LOS and troposcatter communication Propagation study and performance requirements. Diversity techniques.
+
+Satellite communications:
+Basic considerations. Up – link and down link parameters. Orbit and frequency selection. Transmission losses, noise and interference. Elements of multiple access techniques. Frequency reuse techniques. Functional description of earth stations.
+
+Optical Communications:
+Ray propagation in optical fibers. Types of fibers. Losses and dispersion in fibers. Transmitter and receiver subsystem fo optical communications. Laser and LED sources. Optical amplifier. Cable joints couplers and connectors. Splicing techniques. Modulation techniques PIN and avalanche photo diode detectors. Characteristics of analog and digital transmission in optical communication systems. Noise considerations.
+		</subSyllabus>
+		<book>Optical Fiber Communications : Principles and Practice - John M Senior
+
+Satellite Communications - Timothy Pratt, Charles Bostian, Jeremy Allnutt
+
+Wireless Communications and Networks - William Stallings
+
+notes for line of sight communication
+		</book>
+	</subject>
+	
+	<subject>
+		<subID>4</subID>
+		<subName>Advance computer Technology</subName>
+		<subSyllabus>
+Introduction to parallel processing and trends:
+parallelism in uni-processor system, parallel computer structure, architectural classification schemes for parallel computers, multiplicity of instruction data streams, serial versus parallel computers, parallelism versus pipelining.
+
+Memory system:
+hierarchical, associative and cache memory structures, virtual memory system, memory allocation and management.
+
+Principles of pipelining:
+pipelining principles and classifications, general pipelines and reservation tables, interleaved memory organization, instruction pre-fetch and branch handling, data buffering and busing structures, internal forwarding and register tagging, hazard detection and resolution, job sequencing and collision prevention.
+
+Structure for array processors:
+SIMD computer organization, masking and data routing mechanism Inter PE communication, introduction to associative array processing.
+
+Multiprocessor architecture :
+Loosely and tightly coupled multiprocessors, processor characteristics for multiprocessing, interconnection networks, cache coherence protocols.
+
+Introduction to advance processors:
+Data flow computers, the VLIW architecture, fault tolerant architecture and study of TANDEM HIMALAYAN K2 system architecture.
+
+		</subSyllabus>
+		<book>Computer Architecture And Parallel Processing - Kai Hwang, Faye A. Briggs
+		</book>
+	</subject>
+	
+	<subject>
+		<subID>5</subID>
+		<subName>Telematics</subName>
+		<subSyllabus>
+Digital Telephony :
+Principle of working of SPC digital telephone exchanges. Digital switching, space, time. TS, ST, STS, TST switch blocks. Termination of subscriber lines Signalling systems with digital exchanges. Principle of common channel signalling. Synchronization aspect for digital telephony. Store Program Control for call processing.
+
+Integrated Digital Networks :
+Data Communication terminology. Introduction to Circuits, message and packet switching concept. Basic aspects of multiplexing, signaling and synchronization in integrated digital networks. Overview of ISDN and BISDN. Concepts of basic rate and primary rate ISDN. Access and facilities provisions. Elements of fast packet switching, frame relay, ATM, SONET and SDH. Introduction to photonic switching.
+		</subSyllabus>
+		<book>TELECOMMUNICATION SWITCHING SYSTEMS AND NETWORKS - Thiagarajan Viswanathan
+		</book>
+	</subject>
+</semester>

@@ -1,0 +1,393 @@
+<resources>
+    <string name="app_name">MBM EEC INFO</string>
+    <string name="academic">Academic</string>
+    <string name="action_settings">Settings</string>
+    <string name="after_college">After College</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="document">Documents</string>
+    <string name="eigth_sem_practical_link"><a href="https://drive.google.com/file/d/0B9t7qtK0OaHxMVg1eGJmWWdCY1U/view?usp=sharing">VIII_Sem_Practical_Material</a></string>
+    <string name="eigth_sem_practical_link_mirror"><a href="http://www.filehosting.org/file/details/510506/VIII_SEM_PRACTICAL_MATERIAL.rar">VIII_Sem_Practical_Material_Mirror</a></string>
+    <string name="eigth_sem_practical_wandm_link"><a href="https://drive.google.com/file/d/0B9t7qtK0OaHxMU9XVTMyMlpzWWs/view?usp=sharing">VIII_Sem_Practical_WandM_Material_Mirror</a></string>
+    <string name="eigth_sem_practical_wandm_link_mirror"><a href="http://www.filehosting.org/file/details/510508/VIII_SEM_PRACTICAL_MATERIAL_wandm_lab.rar">VIII_Sem_Practical_WandM_Material_Mirror</a></string>
+    <string name="eigth_sem_study_link"><a href="https://drive.google.com/file/d/0B9t7qtK0OaHxM2ZZVDBtQ1daRW8/view?usp=sharing">VIII_Sem_Material</a></string>
+    <string name="eigth_sem_study_link_mirror"><a href="http://www.filehosting.org/file/details/512561/VIII_SEM_Material.rar">VIII_Sem_Material_Mirror</a></string>
+    <string name="exam_pattern">Exam Pattern</string>
+    <string name="facebook"><a href="https://www.facebook.com/ANeverTechnology">Like Us on Facebook</a></string>
+    <string name="feedback">To give feedback, suggestion or to help in improving the app, you can contact us by following medium.</string>
+    <string name="fifth_sem_practical_link"><a href="https://drive.google.com/file/d/0B9t7qtK0OaHxamVFX2k1a3dHdG8/view?usp=sharing">V_Sem_Practical_Material</a></string>
+    <string name="fifth_sem_practical_link_mirror"><a href="http://www.filehosting.org/file/details/510488/V-ACE-Lab%20manual.rar">V_Sem_Practical_Material_Mirror</a></string>
+    <string name="final_year_project">Final Year Project</string>
+    <string name="final_year_project_download_report"><a href="https://drive.google.com/file/d/0B9t7qtK0OaHxZDBHdkNpVE90MW8/view?usp=sharing">Final year project : Sample Report </a></string>
+    <string name="final_year_project_download_report_mirror"><a href="http://www.filehosting.org/file/details/510348/Final-Year_Report.rar">Final year project : Sample Report : Mirror </a></string>
+    <string name="final_year_project_mentor_assignment">Mentor Assignment</string>
+    <string name="final_year_project_mentor_assignment_text">"1. The mentor is assigned to team by the dept and it is in random order.
+
+ 2. To get the mentor, first you are gonna need a list that will contain all the team group, their members, email ID and contact number. All this above work will be done by the student itself. Try to do this asap to get your mentor.
+
+ 3. The list will be submitted to the dept with an application to HOD sir for allocation of mentor.
+
+ 4. After that, you will be allocate mentor in few days.
+
+"</string>
+    <string name="final_year_project_project_assignment">Project Assignment</string>
+    <string name="final_year_project_project_assignment_text">"1. Soon after mentor assignment, you have to contact your mentor with your whole team. They will give you basic instruction about project, rules and regulations.
+
+ 2. You will also be given an attendance sheet. On that sheet, you have to write name of all the members and get it signed every time when you meet your mentor. It is very important as it will be seen at the time of project viva.
+
+ 3. Soon after the first meeting, you have to show you mentor project ideas. If it is approved by your mentor, you have to write the name of project in the project register (contact swami sir).
+
+ 4. You can get the project idea from IEEE papers. The project should be complex
+
+ 5. Before taking any idea to mentor, first check whether the components are available in local market or not. If they are not available, check whether you can get them in right time.
+
+ 6. Try to approve the project asap. Maximum should be within one month.
+
+ 7. As your project making process will be accompanied by placement season, 7th and 8th sem exam, think in advance about how you want to proceed.
+
+ 8. Try to finish the project in running state before 1 month of your written exam i.e. by first week of April. By this time, your mentor can announce you to show working project. So be prepare.
+
+ 9.You are not gonna get any day after exam. Generally after practical exam within 5 days you have to show your project.
+
+"</string>
+    <string name="final_year_project_project_inspection">Project Inspection</string>
+    <string name="final_year_project_project_links">External link / download related to Project</string>
+    <string name="final_year_project_project_inspection_text">"1. The project viva is held after training viva. You can expect that your viva will be held within 5 days of your practical exam completion
+
+ 2. The project internal examiners consist of HOD sir and an external.
+
+ 3. Choose to make a project in pure computer stream only if your programming is really good. If not, then go for electronics or a combination of both. At least you would have some hardware to show in your project.
+
+ 4. You also have to accompany a hard bind project report. The demo report is available in download link.
+
+ 5. It is recommended that your project should be in running state, plus all the member should have knowledge about how it works. So divide the work in every member of the team.
+
+ 6. The project report impacts a big impression on your marks. Try to make it complete before your written examination. Also it should look like that you have done a great work in making the report.
+
+ 7. Your project should be in good condition, so you can also decorate it in simple manner enough for presentation.
+
+"</string>
+    <string name="final_year_project_team_formation">Team Formation</string>
+    <string name="final_year_project_team_formation_text">"1. Final year project carries 150 marks. So it is a great chance to make your percentage better by doing the project right way.
+
+ 2. First, you have to make your own team. It is not made by the department.
+
+ 3. The team contains 5-7 members. To be on safer side make a team of 6 members as there are few professor.
+
+ 4. While making the team, try to choose member who have different specially in different field. Like at least one should know knowledge of embedded system if you are working on micro-controller. In short team member should be according to the need of project.
+
+ 5. The team member could be from any group (like A-1 or A-4) it does not matter. But it would help if all the members are from same group, as you there will be no clash of labs between the members.
+
+"</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="internship">Training / Internship</string>
+    <string name="internship_common_guidelines">Important information regarding Internship / Training</string>
+    <string name="internship_common_guidelines_text">"1. To complete your degree, you need to undergo two 45 days each training period. One in second year, and other in the third year.
+
+ 2. It is mandatory and also carry a weightage of 75 marks.
+
+ 3. To apply in a company, first you need a form attested by TPO head.
+
+ 4. In the form, you have to mention the name of company (in which you want to apply for internship), your name, branch and current semester with your signature and left thumb impression.
+
+ 5. This form is available at the ENGCOL.
+
+ 6. Note that you can attest only two form from TPO head, so think carefully.
+
+ 7. Also note that this form will be needed in the company so that they can give you the required certificate of internship.
+
+ 8. The certificate should clearly mention the date from which date you started training and up to which you have attended the internship.
+
+ 9. The internship should be of minimum 45 days. It is mandatory otherwise you would be asked for re training for remaining days of your internship.
+
+ 10. You also have to submit Joining report in the TPO office which will mention that you have joined the company. The form is available in the download link. The form will be attested by your training supervisor.
+
+ 11. Try to make project report in your internship and get it signed by your training supervisor. remember you have to show project report in the training viva, so make it when it should.
+
+ 12. It is also good to take project letter from your training company. Some provides and some not.
+
+ 13. The Training viva of both 2nd year and 3rd year will be held after practical examination of 8th semester. You will be required to bring both the certificates and project report.
+
+ 14. You will be asked question about the training. So be aware to complete your training with wake mind.
+
+ 15. The project report should be in spiral bind. Also include a photocopy of the certificate in your project report.
+
+ 16. You can also accompany project report in placement interview. But that is optional and do it on your own whim."</string>
+    <string name="internship_document">List of Documents required before and after Internship / Training</string>
+    <string name="internship_document_text">" "<b>Documents :</b>"
+ 1. Training Form (available at ENGCOL)
+ 2. Joining report (see download)
+ 3. Internship certificate
+ 4. Project letter
+ 5. Project report
+"</string>
+    <string name="internship_download_joining_report"><a href="https://drive.google.com/file/d/0B9t7qtK0OaHxV0dNSEs5dUVVNzg/view?usp=sharing">Internship : Joining Report Format </a></string>
+    <string name="internship_download_joining_report_mirror"><a href="http://www.filehosting.org/file/details/510308/joining%20report.doc">Internship : Joining Report Format : Mirror </a></string>
+    <string name="internship_download_training_report"><a href="https://drive.google.com/file/d/0B9t7qtK0OaHxQlhrWDVPdTRQd2M/view?usp=sharing">Internship : Sample Training Report </a></string>
+    <string name="internship_download_training_report_mirror"><a href="http://www.filehosting.org/file/details/510346/asp.net.docx">Internship : Sample Training Report : Mirror </a></string>
+    <string name="internship_training_viva">Examination Viva regarding Internship / Training</string>
+    <string name="internship_training_links">External link / download related Internship / Training</string>
+    <string name="internship_training_viva_text">" "<b> Document :</b>"
+ 1. Spiral bind Project report (see download)
+
+ 2. Internship certificate which clearly shows that total days of 2nd and 3rd year internship exceeds 90 days.
+
+ 3. 1 set of photo copies of certificate.
+
+ "<b>Common guidelines :</b>"
+
+ 1. The training viva carry weightage of 75 marks.
+
+ 2. It takes place right after within 2 days after completion of 8th sem practical exam.
+
+ 3. If numbers of days on the certificate are less than 90 days, than you might be asked to do remaining days of training.
+
+ 4. If your training is less then 45 days, then you can also do training from other company or institute to cover up 45 days i.e. in a particular year total number of internship days must exceed 45 days.
+
+ 5. Your viva would be based on your project report. So read it thoroughly before viva.
+
+ 6. The level of difficulty of viva totally depends on the examiner.
+
+ 7. It is necessary that your report should have at least spiral binding.
+
+ 8. The project report also include a photo copy of your certificate.
+
+ 9. Be sure to prepare the project report 1 month before written exam. Sometimes the training viva takes place right after next day of practical exam.
+
+ 10. If you also have project letter, then be sure to attach it with project report.
+
+ 11. You might be ask to either submit project report or certificate photo copies. so make sure that you have at least one set of photocopy at viva.
+
+ 12. The dates of training should not collide with a working day of college. In other words, the date on the certificate should be within from the mentioned date from the notification of college training.
+
+ "</string>
+    <string name="jnvu_download_caution_money"><a href="http://jnvuonline.in/pdf/FORM-REFUND-CAUTION-MONEY.pdf">Caution Money - No dues Form</a></string>
+    <string name="jnvu_download_degree"><a href="http://jnvuonline.in/pdf/DEGREE-FORM.pdf">Degree Form</a></string>
+    <string name="jnvu_download_duplicate_degree"><a href="http://jnvuonline.in/pdf/DUPLICATE-DEGREE-FORM.pdf">Duplicate Degree</a></string>
+    <string name="jnvu_download_ekal_khidki"><a href="http://jnvuonline.in/pdf/EKAL-KHIRKI-FORM.pdf">Ekal Khidki Form</a></string>
+    <string name="jnvu_download_migration"><a href="http://jnvuonline.in/pdf/FORM-APPLICATION-MIGRATION-CERTIFICATE.pdf">Migration Certificate Form</a></string>
+    <string name="jnvu_online_in"><a href="http://www.jnvuonline.in">JNVU</a></string>
+    <string name="jnvu_online_in_admit_card"><a href="http://jnvu.ucanapply.com/jnvu/student/student-admit-card">Admit Card</a></string>
+    <string name="jnvu_online_in_result"><a href="http://jnvu.ucanapply.com/jnvu/student/result">Result</a></string>
+    <string name="jnvu_online_in_student"><a href="http://jnvu.ucanapply.com/jnvu/student/">JNVU Student Portal</a></string>
+    <string name="mbm_ac_in"><a href="http://www.mbm.ac.in">MBM</a></string>
+    <string name="mbm_ac_in_ecc_syllabus"><a href="http://jnvuonline.in/pdf/Faculty_of_Engineering_Syllabus/BE%20ECC-II-III-IV-2015-17.pdf">ECC Syllabus</a></string>
+    <string name="mbm_ac_in_student"><a href="http://www.mbm.ac.in/student-signin">MBM Student Portal</a></string>
+    <string name="placement_corner">Placement Corner</string>
+    <string name="placement_links_tcs_aptitude_test_1"><a href="http://www.campusgate.co.in/2014/07/tcs-latest-placement-paper-questions.html">TCS Aptitude Test I</a></string>
+    <string name="placement_links_tcs_aptitude_test_2"><a href="http://www.indiabix.com/placement-papers/tcs/">TCS Aptitude Test II</a></string>
+    <string name="placement_links_tcs_aptitude_test_3"><a href="http://placement.freshersworld.com/placement-papers/company/TCS/680">TCS Aptitude Test III</a></string>
+    <string name="placement_links_tcs_email_writing"><a href="http://www.programminggeek.in/2014/05/tcs-verbal-test-simulator-by-programminggeek.html">TCS Email Writing Mock Test Set</a></string>
+    <string name="placement_links_tcs_exam_pattern"><a href="http://www.programminggeek.in/2014/10/tcs-placement-pattern-for-2015-batch.html">TCS Exam Pattern</a></string>
+    <string name="practical_exam">Practical Exam</string>
+    <string name="procedure">Procedure</string>
+    <string name="sem_1">Semester 1</string>
+    <string name="sem_2">Semester 2</string>
+    <string name="sem_3">Semester 3</string>
+    <string name="sem_4">Semester 4</string>
+    <string name="sem_5">Semester 5</string>
+    <string name="sem_6">Semester 6</string>
+    <string name="sem_7">Semester 7</string>
+    <string name="sem_8">Semester 8</string>
+    <string name="seventh_sem_practical_link"><a href="https://drive.google.com/file/d/0B9t7qtK0OaHxdHlEb0l2ZGx0VW8/view?usp=sharing">VII_Sem_Practical_Material</a></string>
+    <string name="seventh_sem_practical_link_mirror"><a href="http://www.filehosting.org/file/details/510501/VII_SEM_PRACTICAL_MATERIAL.rar">VII_Sem_Practical_Material_Mirror</a></string>
+    <string name="seventh_sem_study_ofc_link"><a href="https://drive.google.com/file/d/0B9t7qtK0OaHxc0VONVN2YjVSczQ/view?usp=sharing">VII_Sem_Study_OFC_Material</a></string>
+    <string name="seventh_sem_study_ofc_link_mirror"><a href="http://www.filehosting.org/file/details/510493/VII_SEM_MATERIAL_OFC_GregKieset_WandM_Stalling.rar">VII_Sem_Study_OFC_Material_Mirror</a></string>
+    <string name="seventh_sem_study_vlsi_link"><a href="http://www.filehosting.org/file/details/512560/VII_SEM_VLSI_STUDY_MATERIAL1.rar">VII_Sem_Study_VLSI_Material</a></string>
+    <string name="seventh_sem_study_vlsi_link_mirror"><a href="http://www.filehosting.org/file/details/512560/VII_SEM_VLSI_STUDY_MATERIAL1.rar">VII_Sem_Study_VLSI_Material_Mirror</a></string>
+    <string name="show_books">Show Books</string>
+    <string name="show_syllabus">Show Syllabus</string>
+    <string name="sixth_sem_practical_link"><a href="https://drive.google.com/file/d/0B9t7qtK0OaHxVzZaWUpBWHg2cjQ/view?usp=sharing">VI_Sem_Practical_Material</a></string>
+    <string name="sixth_sem_practical_link_mirror"><a href="http://www.filehosting.org/file/details/510490/VI_SEM_PRACTICAL_MATERIAL.rar">VI_Sem_Practical_Material_Mirror</a></string>
+    <string name="sixth_sem_study_link"><a href="https://drive.google.com/file/d/0B9t7qtK0OaHxNUhZMTB5RHFENU0/view?usp=sharing">VI_Sem_Study_Material</a></string>
+    <string name="sixth_sem_study_link_mirror"><a href="http://www.filehosting.org/file/details/512559/VI_SEM_STUDY_MATERIAL1.rar">VI_Sem_Study_Material_Mirror</a></string>
+    <string name="syllabus">Syllabus</string>
+    <string name="tcs_aptitude">Aptitude Round</string>
+    <string name="tcs_aptitude_text">"1. After email writing, you have to give analytical test.
+
+ 2. The test will consist of 35 questions and duration will be 80 minutes.
+
+ 3. There is negative marking and 1/3 marks will be deducted for each marks.
+
+ 4. There are 4 questions who carry more weightage, try to do them earlier.
+
+ 5. It is also recommended that do not waste much time on a single question.
+
+ 6. Some of the question are very easy. So if you do not know solution of a question, leave that and try to do at later time.
+
+ 7. Both accuracy and speed is important.
+
+ 8. You can refer to r s agarwal or Arun sharma for practice. Indiabix.com and campusgate.com are also good. Some links are provided in the useful link section. Find more online for more practice.
+
+ 9. Also try to appear for exam in early rounds. Do not even think that question are same and you will get help from your friends. TCS is not stupid.
+
+ 10. If you appear in later rounds, then your interview will delayed according to interval and that could be really frustrating."</string>
+    <string name="tcs_document">Documents</string>
+    <string name="tcs_document_text">"1. First you have to register yourself at nextstep.tcs.com. The TPO will release a notification about it, so do not worry.
+
+ 2. Be sure to click on register for drive a day before placement. It is mandatory.
+
+ 3. Registration form
+
+ 4. Resume (At least 3 copies)
+
+ 5. 2 sets of photocopy of all mark sheet (including 10th and 12th).
+
+ 6. A document holder which would contain your resume, mark sheet and certificate"</string>
+    <string name="tcs_email_writing">Email Writing</string>
+    <string name="tcs_email_writing_text">"1. You have to write an Email within 10 minutes in around 50-70 words.
+
+ 2. In the question you will be provided a scenario and around 10 words.
+
+ 3. You have to use all the words in the mail.
+
+ 4. If you do not know meaning of a word, then do not bother. Just write down the words in the email.
+
+ 5. Also it is not necessary that all the words should be in given order, but it would be good if they are.
+
+ 6. Try to minimize grammatical mistake and check on the syntax. Keep in mind the word limit and try to finish your mail in the described word limit.
+
+ 7. Try to finish your mail in 8 minutes and give 2 minutes for spelling mistake.
+
+ 8. Remember accuracy is the key to pass this round.
+"</string>
+    <string name="tcs_human_resource">Human Resources Round(HR)</string>
+    <string name="tcs_human_resource_text">"1. In this round you will be asked question about puzzle, skill and etc. So gather a good knowledge of logic puzzle.
+
+ 2. Also have some confidence, do not look pale or timid. This is an important round which shows a lot about your personality, intelligence and communication skills.
+
+ 3. See link for more info
+
+"</string>
+    <string name="tcs_management">Management Round(MR)</string>
+    <string name="tcs_management_text">"1. If you get this far, then congratulation. You are almost selected.
+
+ 2. In this round you will be told about the 2 year bond and they will ask you whether you have any problems working out of state
+. They will also told you about formalities before joining tcs. It is just simple round
+.
+"</string>
+    <string name="tcs_technical">Technical Round(TR</string>
+    <string name="tcs_technical_text">"1. In technical round, they mostly ask questions about your point of interest. So tell only those stream in which you have confidence.
+
+ 2. Do not show off and try to cut the talk of your interviewer, That is you should have confidence but not over confidence.
+
+ 3. Also do not say that there is no classes or little classes. Do not say anything negative about your college or department. They simply do not care and this affect your chance for placement in a very adverse way.
+
+ 4. You should have thorough knowledge of whatever you are including in the resume.
+
+ 5. In generally you should have knowledge of c, data structure, OOP and DBMS. Basically they will see that whether you have little bit knowledge of coding,
+
+ 6. Also you could be ask questions about ece, so if you have time then go through electronic circuits basic like what is hall effect. It can happen but in rare chance,
+ if your coding is good, then you might get on the final list. So give special attention on c, data structure and db.
+
+ 7. And most important, most of the questions will be based on your resume. So your resume should be impressive.
+
+ 8. Include the training and curricular activities. Your resume is the key to get you in the final list.
+
+ 9. You should have thorough knowledge of whatever you are including in the resume.
+"</string>
+    <string name="title_activity_academic_download_go">Download</string>
+    <string name="title_activity_academic_final_year_project">Final Year Project</string>
+    <string name="title_activity_academic_final_year_project_display">Final Year Project</string>
+    <string name="title_activity_academic_internship">Internship / Training</string>
+    <string name="title_activity_academic_main">Academic</string>
+    <string name="title_activity_academic_workshop">Workshop</string>
+    <string name="title_activity_activity_downloads">Academic Downloads</string>
+    <string name="title_activity_after_college">After College</string>
+    <string name="title_activity_contact_us">Contact Us</string>
+    <string name="title_activity_placement_exam_pattern_display">Placement TCS Exam Pattern</string>
+    <string name="title_activity_placement_main">Placement Corner</string>
+    <string name="title_activity_placement_tcs">Placement TCS</string>
+    <string name="title_activity_placement_tcsdoc">Placement TCS Document</string>
+    <string name="title_activity_placement_tcsexam_pattern">Placement TCS Exam Pattern</string>
+    <string name="title_activity_placement_tcslinks">Placement TCS Links</string>
+    <string name="title_activity_post_college_downloads">Post College Downloads</string>
+    <string name="title_activity_semester">Semester</string>
+    <string name="title_activity_semester_syllabus">Syllabus</string>
+    <string name="title_activity_useful_link_main">Useful Link</string>
+    <string name="title_activity_semester_subject_diplay">Subject Information</string>
+
+    <string name="useful_links">Important Links</string>
+    <string name="workShop">Workshop</string>
+    <string name="workShop_common_guidelines">Important information regarding Workshop</string>
+    <string name="workShop_common_guidelines_text">" "<b> Common Guidelines</b>"
+ 1. Electronics Workshop lab is a mandatory 4th semester practical examination in which you (or your team) have to make
+
+ a small project using PCB (printed circuit board) which would contain different electronic devices like BJT, Diode, IC etc.
+
+ 2. The team usually consist of two or three members, remember greater the number of member in team, greater the complexity of the project.
+
+ 3. The Practical viva is usually taken by Bhansali sir.
+
+ 4. Your pcb should contain at least one IC.
+
+ 5. Before finalizing project, make sure that components are available in local market. In other words, do not choose a project whose components are hard to find
+
+ 6. You have to find project on your own. The faculty does not allocate you the project, but you have to finalize it so that no one else can take up your project topic.
+
+ 7. Try not to miss any class, attendance matters a lot in workshop.
+
+ 8. Do not buy, make yourself. This will help you in final year project too.
+
+ 9. Try to make PCB as small and compact as possible. Larger PCB is somewhere kills the whole idea behind PCB.
+
+ 10. Electronics For You is a great magazine to find up the project.
+
+ 11. PCB are allocated from the workshop, do not buy from market.
+
+ 12. Make PCB layout design yourself by circuit schematics. Dip Trace, Eagle, Ulti Board are some software that let you achieve this.
+
+ 13. Do not directly mount the IC on pcb. Instead of, mount IC pads on pcb first and solder it. On IC pads, put the IC.
+
+ 14. Every year 3rd year senior organize a workshop for this. Try to attend that.
+
+ "</string>
+    <string name="workShop_general_procedure">General Procedure to make Printed Circuit board</string>
+    <string name="workShop_general_procedure_text">" "<b>General Procedure :</b>"
+
+ 1. Finalize the project. Take the schematic and make pcb layout by using above softwares. See useful links for tutorial.
+
+ 2. Print out the layout on glossy paper.
+
+ 3. Next step is to take the impression of layout on PCB. Use iron (Press) for this. For guiedance, contact the lab in charge sir.
+
+ 4. After taking the impression, next step is to wash the PCB.
+
+ 5. After washing it, next step is etching.
+
+ 6. After etching, the next step is drilling.
+
+ 7. After drilling, the next step is component mounting and soldering.
+
+ 8. Test your pcb. If you need to desolder any component, then use desoldering material for it."</string>
+    <string name="workShop_software">Common Software to design Printed circuit board</string>
+    <string name="workShop_links">Important external link for workshop</string>
+
+    <string name="workShop_software_text">" "<b>Software:</b>"
+ 1. Ultiboard : This software is being recommended by the department as it has been purchased by the department.
+        The sofware is installed on multiple system in department and also available to carry home for designing.
+
+ 2. Dip Trace : This one is relatively easy to use then ultiboard. Freeware addition is available to download from official
+        website as well as several other software providing websites.
+
+ 3. Eagle : This software is also very popular for designing the pcb. The software is also available for free download
+        for non profit use. The software is being provided by autodesk.com .
+
+ "</string>
+    <string name="workshop_dip_trace_layout"><a href="https://www.youtube.com/watch?v=kw51rlCTYBY">DIP Trace Tutorial : Layout</a></string>
+    <string name="workshop_dip_trace_schematic"><a href="https://www.youtube.com/watch?v=uCPUqXFvUZU">DIP Trace Tutorial : Making a Schematic</a></string>
+    <string name="workshop_dip_trace_tutorial"><a href="www.diptrace.com/books/tutorial.pdf">DIP Trace Tutorial : PDF</a></string>
+    <string name="workshop_efy_online_link"><a href="http://electronicsforu.com/category/diy/hardware-diy/">Electronics for you : Link </a></string>
+    <string name="workshop_efy_sample_project"><a href="https://drive.google.com/file/d/0B9t7qtK0OaHxNXc1T2gycjVhbFk/view?usp=sharing">Sample Project for Workshop</a></string>
+    <string name="workshop_efy_sample_project_mirror"><a href="http://www.filehosting.org/file/details/510300/mbm_workshop_electronics-for-you-projects-full.zip">Sample Project for Workshop : Mirror</a></string>
+    <string name="written_exam">Wriiten Exam</string>
+
+    <string name="SEMESTER_ID">semID</string>
+    <string name="SEMESTER_NAME">semName</string>
+    <string name="SEMESTER_WRITTEN">semWriiten</string>
+    <string name="SEMESTER_PRACTICAL">semPractical</string>
+    <string name="SUBJECT">Subject</string>
+    <string name="MARKS">Marks</string>
+
+
+
+</resources>

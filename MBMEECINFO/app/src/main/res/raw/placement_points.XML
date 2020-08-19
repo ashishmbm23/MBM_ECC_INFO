@@ -1,0 +1,386 @@
+<?xml version="1.0" ?>
+<placementPonint>
+    <company>
+        <companyDetail>TCS is one of the biggest recruiter of the world. Over 3 lac employees in the workforce of this MNC, the company recruits
+		almost 100 students from MBM. The package is good, not bad neither worst. So if you are an average or above average, this is the good place
+		to start your career with. 
+		The interesting part is, that only 3/4th or maybe lesser of the selected students join the company, as many just want to get a job security. For all those, I just want to say that it's not bad to have a backup at hand, but if you are really good, or your only aim is to get a government job, then please don't apply for this. The market is bad for IT and it could be a lifeline for a lot of guys in the college.
+		Those who want to do MBA after completing 2 years at TCS, good choice for you guys. Go ahead and grab the job. It's always great to experience the 
+		corporate life and it's benificial for your resume.
+		In the last, anever tech wish you best of luck.
+		</companyDetail>
+		<companyId>1</companyId>
+        <companyName>Tata Consultancy Services(TCS)</companyName>
+        <companyPattern>
+            <roundId>1</roundId>
+            <roundName>Email writing</roundName>
+            <roundDetail>
+You have to write an Email within 10 minutes in around 50-70 words. In the question you will be provided a scenario and around 10 words
+
+You have to use all the words in the mail. If you don't know meaning of a word, then don't bother. Just write down the words in the email.Also it is not necessary that all the words should be in given order, but it would be good if they are.
+
+Try to minimize grammatical mistake and check on the syntax. Keep in mind the word limit and try to finish your mail in the described word limit.
+
+Try to finish your mail in 8 minutes and give 2 minutes for spelling mistake. Remember accuracy is the key to pass this round.
+            </roundDetail>
+        </companyPattern>
+
+        <companyPattern>
+            <roundId>2</roundId>
+            <roundName>Aptitude/MCQ/Coding Test</roundName>
+            <roundDetail>
+*****Updated******. From FY 2017-18, There are some changes in TCS recruitment process. Now instead of 2 round, there will be 4 round named
+a. Email Writing
+b. Aptitude Test - 20 Questions - 40 Minutes
+c. Technical MCQ - 10 Questions - 20 Minutes (Focus on C language)
+d. Programming -  1 Problem statement, coding to be done in C language
+
+For C language, I think the best book is "Let us C". There are multiple MCQ at end of each chapter. Go through them to understand the topic.
+
+                After email writing, you have to give analytical test. The test will consist of 20 questions and duration will be 40 minutes.
+         
+There is negative marking and 1/3 marks will be deducted for each marks. There are 4 questions who carry more weightage, try to do them earlier.
+         
+It's also recommended that don't waste much time on a single question.
+         
+Some of the question are very easy. So if you don't know solution of a question, leave that and try to do at later time. Both accuracy and speed is important.
+         
+You can refer to r s agarwal or Arun sharma for practice. Indiabix.com and campusgate.com are also good. Some links are provided in the useful link section.
+         
+Find more online for more practice.
+         
+Also try to appear for exam in early rounds. Don't even think that question are same and you will get help from your friends. They are not stupid.
+         
+If you appear in later rounds, then your interview will delayed according to interval and that could be really frustrating.
+            </roundDetail>
+        </companyPattern>
+
+        <companyPattern>
+            <roundId>3</roundId>
+            <roundName>Technical Round</roundName>
+            <roundDetail>
+In technical round, they mostly ask questions about your point of interest. So tell only those stream in which you have confidence.
+         
+Do not show off and try to cut the talk of your interviewer. That is you should have confidence but not over confidence.
+         
+Also do not say that there is no classes or little classes. Do not say anything negative about your college or department.
+         
+They simply do not care and this affect your chance for placement in a very adverse way.
+         
+In generally you should have knowledge of c, data structure, OOP and DBMS. Basically they will see that whether you have little bit knowledge of coding,
+         
+if yes then you might get on the final list. And most important, most of the questions will be based on your resume. So your resume should be impressive.
+         
+Include the training and curricular activities. Your resume is the key to get you in the final list. Read everything that you include in your resume.
+            </roundDetail>
+        </companyPattern>
+
+
+        <companyPattern>
+            <roundId>4</roundId>
+            <roundName>Human Resources Round</roundName>
+            <roundDetail>
+In this round you will be asked question about puzzle, skill and etc. So gather a good knowledge of logic puzzle.
+         
+Also have some confidence, do not look pale or timid. This is an important round which shows a lot about your personality, intelligence and communication skills.
+         
+See link for more info
+			</roundDetail>
+        </companyPattern>
+
+        <companyPattern>
+            <roundId>5</roundId>
+            <roundName>Management round</roundName>
+            <roundDetail>
+If you get this far, then congratulation. You are almost selected. In this round you will be told about the 2 year bond and they will ask you whether you have anyproblems working out of state. They will also told you about formalities before joining tcs. It is just simple round. </roundDetail>
+        </companyPattern>
+        <companyDocuments>
+Documents:
+1. First you have to register yourself at nextstep.tcs.com. The TPO will release a notification about it, so don't worry.
+
+2. Be sure to click on register for drive a day before placement. It's mandatory.
+
+3. Registration form
+
+4. Resume (At least 3 copies)
+
+5. 2 sets of photocopy of all mark sheet (including 10th and 12th).
+
+6. A document holder which would contain your resume, mark sheet and certificate
+        </companyDocuments>
+        <companyEligibility>
+1.Minimum aggregate (aggregate of all subjects in all semesters) marks of 60% or above in the first
+attempt in each of your Class Xth, Class XIIth, Diploma (if applicable), Graduation and Post-Graduation
+examination which includes successful completion of your final year/semester without any pending
+arrears/back logs during the entire course duration.
+
+2.First attempt implies that you should clear the final year/semester examination (Xth, XIIh, Diploma,
+Graduation and Post-Graduation as applicable) with minimum aggregate (aggregate of all subjects in all
+semesters) marks of 60% and above within the normal duration of the course itself.
+
+3.Completion of all courses Class Xth onwards within the stipulated time as specified by your
+University/Institute and as per the TCSL Selection Guidelines without any extended education. For
+example, if you have a backlog in the final semester of BE, it is considered as extended education as the
+stipulated time to complete BE is 4 years.
+
+4.Maximum upto 1 pending backlog/arrear in the highest qualification will be permitted only at the time of
+appearing for the TCS Selection process. If selected, no pending backlogs will be permitted at the time of
+joining TCS. All pending backlogs should be completed within the normal course duration.
+        </companyEligibility>
+        <companyUsefulLinks>
+				<companyLinkText>TCS Career home page</companyLinkText>
+				<companyLinkDesc>https://careers.tcs.com/careers/index.html#/careers/AS/IN</companyLinkDesc>
+        </companyUsefulLinks>
+		<companyUsefulLinks>
+				<companyLinkText>TCS Next Step Portal</companyLinkText>
+				<companyLinkDesc>https://nextstep.tcs.com/campus/#/</companyLinkDesc>
+        </companyUsefulLinks>
+		<companyUsefulLinks>
+				<companyLinkText>TCS Eligibility Criteria PDF Download</companyLinkText>
+				<companyLinkDesc>http://www.becbapatla.ac.in/html/TCS%20Eligibility%20Criteria.pdf</companyLinkDesc>
+        </companyUsefulLinks>
+		<companyUsefulLinks>
+				<companyLinkText>Campusgate.com TCS Placement Papers</companyLinkText>
+				<companyLinkDesc>http://www.campusgate.co.in/2014/07/tcs-latest-placement-papers.html</companyLinkDesc>
+        </companyUsefulLinks>
+		<companyUsefulLinks>
+				<companyLinkText>Indiabix.com TCS Placement Papers</companyLinkText>
+				<companyLinkDesc>http://www.indiabix.com/placement-papers/tcs/</companyLinkDesc>
+        </companyUsefulLinks>
+		<companyUsefulLinks>
+				<companyLinkText>FresherWorld.com TCS Placement Papers</companyLinkText>
+				<companyLinkDesc>http://placement.freshersworld.com/tcs-question-papers-and-answers/33140000211</companyLinkDesc>
+        </companyUsefulLinks>
+		<companyUsefulLinks>
+				<companyLinkText>ProgrammingGeek TCS Email Writing online simulator</companyLinkText>
+				<companyLinkDesc>http://www.programminggeek.in/2014/05/tcs-verbal-test-simulator-by-programminggeek.html</companyLinkDesc>
+        </companyUsefulLinks>
+		<companyUsefulLinks>
+				<companyLinkText>ProgrammingGeek.com TCS Placement Pattern</companyLinkText>
+				<companyLinkDesc>http://www.programminggeek.in/2014/10/tcs-placement-pattern-for-2015-batch.html</companyLinkDesc>
+        </companyUsefulLinks>
+        <companyUsefulLinks>
+            <companyLinkText>Campusgate Technical question</companyLinkText>
+            <companyLinkDesc>http://www.campusgate.co.in/p/technical.html</companyLinkDesc>
+        </companyUsefulLinks>
+        <companyUsefulLinks>
+            <companyLinkText>Fresherworld Interview questions</companyLinkText>
+            <companyLinkDesc>http://placement.freshersworld.com/tcs-technical-interview-questions-and-answers/33122057</companyLinkDesc>
+        </companyUsefulLinks>
+    </company>
+	<company>
+	<companyId>2</companyId>
+        <companyName>The International Business Machines(IBM)</companyName>
+		<companyDetail>This is an informal place of company's selection procedure with the MBM. If you want to read more about company's profile, plase google it.
+
+Now, unfortunately IBM does not officialy visit the college(Please mail me if it is changed), but it does call students from college for campus atanother college(No idea, may be JECRC). One more bad news for guys is that you are not eligible in this selecction procedure, but you can apply off campus, just keep your eyes and ears open. Do AMCAT or Litmus and may be the company calls you.
+
+So girls, as last communicated, the call is exlusively for girls. Now the standard marks are 70%, but the company reduces the cutoff to 65% for MBM girls(TPO members, please notify the correct procedure.. Thanks in advance). Now you have to choose between TCS and IBM, and if you are selected in TCS, you can't opt for IBM. So choose wisely. As of which is better, I can't comment. Both are best at what they do. Yeah IBM offers joining bonus of
+50000 wth salary ranging from  3LPA to 3.6 LPA. TCS is offering 3.30 lac right now. 
+
+		</companyDetail>
+       
+			 <companyPattern>					
+<roundId>1</roundId>
+<roundName>Written Exam</roundName>
+<roundDetail>IBM conducts first round is an online written test. This is more like an aptitude test. The test is divided into four sections. The sections are verbal ability test, analytical ability test, attention to detail test and the last one, technical ability test. In this test the questions are related to time, distance, ratio proportion, puzzles, number system and series based. The student can get questions related to computer hardware and software in the technical section.
+
+Time allotted to the written exam is 100 minutes. IBM written exams don’t have negative marking system.
+
+Verbal Ability section consists of short reading comprehension passages, basic grammar usage questions like fill in the blanks, synonyms, antonyms, paragraph completion, sentence correction, vocabulary, sentence ordering etc. The time allotted to this section is 20 minutes.
+
+Number series &amp; Quantitative Ability section consists of 18 questions each based on topics like series, algebra, time &amp; work, time, speed &amp; distance, arithmetic, percentages, probability, permutation &amp; combination, profit &amp; loss, HCF, LCM, geometry, etc. This section is of moderate level. The time allotted per question in this section is about 2 minutes.
+            </roundDetail>
+        </companyPattern>
+		
+		 <companyPattern>
+            <roundId>2</roundId>
+            <roundName>Technical Interview</roundName>
+            <roundDetail>In the technical round, most of the questions will be asked about computer software programming, operating systems, database management, etc.
+
+Most of the times The interviewer will ask the student to explain about the (MINI/Major) project done by them in the final year. He/ she may expect a few questions on their project related work.
+            </roundDetail>
+        </companyPattern>
+		 <companyPattern>
+            <roundId>3</roundId>
+            <roundName>HR Interview</roundName>
+            <roundDetail>
+Once you have done with the technical discussion, we will be called for HR round. This is the last set of the selection process. It is observed that technical and the HR round is clubbed as one and sometimes done separately.
+
+In the final HR round, the interviewer may ask the student about what you know about IBM, what are the goals and weakness of the student? The student should first introduce himself/ herself to the interviewer. The HR would evaluate the student’s confidence, creativity, problem-solving abilities and ability to work as a team. In order to be selected in IBM, the student should be well prepared.
+            </roundDetail>
+        </companyPattern>
+		 <companyDocuments>
+Documents:
+1. SSC Marksheet
+2. HSC/Diploma Marksheet
+3. Graduation &amp; Post Graduation all years mark sheets
+4. Photo ID proof (Pan Card/ Passport / Driving License / College ID)
+5. Photograph
+6. Resume
+        </companyDocuments>
+		<companyEligibility>Only entry level engineers are eligible.
+Flexible to work in Shifts. 
+Should have good communication skills.
+Should have a good hold on mathematics or must be good in calculation.
+Must have consistent academic records from Class X on wards
+Candidates who have attended IBM interview or recruitment before 6 months need not apply.
+        </companyEligibility>
+		 <companyUsefulLinks>
+				<companyLinkText>IBM home page</companyLinkText>
+				<companyLinkDesc>https://www.ibm.com/in-en/</companyLinkDesc>
+        </companyUsefulLinks>
+		 <companyUsefulLinks>
+				<companyLinkText>IBM entry level off campus link</companyLinkText>
+				<companyLinkDesc>http://www-07.ibm.com/in/careers/entrylevel_campus.html</companyLinkDesc>
+        </companyUsefulLinks>
+		 <companyUsefulLinks>
+				<companyLinkText>IBM Career page</companyLinkText>
+				<companyLinkDesc>http://www-07.ibm.com/in/careers/index.html</companyLinkDesc>
+        </companyUsefulLinks>
+	</company>
+	<company>
+	<companyId>3</companyId>
+        <companyName>Analytics Quotient(AQ)</companyName>
+<companyDetail>Here comes the real competition. Here start the list of companies which will take almost 5 to 8 round and will select 4 to 8 people.
+		
+I recommended everone to go through a basic profile of each company that visit your college(Beacause now you guys have wifi and GOT will not come
+till 2019). Why this is important, because it make you look like you have prepared for the company and will make you less blank and speechless during the orientation process. The videos are amazing as in small workforce company, environment is cooler then MNCs. But again they are here for the top guys, so make sure you are at your best. Otherwise, there is TCS.
+
+The company offers two profiles, software developer and business analyst. The software developer is for toppers of CS branch and business analyst for guys with data analyst skills(basically for those who are preparing for CAT). If you are going for software developer position, go through data structure and DBMS thoroghly. Grab cormen and korth and start studying these books if you really want to join this company, otherwise there is TCS.
+
+The whole selection process was run through 2 days, and it is really frustrating if you get out in the last round(As I was). The business analyst guys were given a case study in the last round. So first choose in whiich field you wanna apply and then start practising for this.
+
+The package at that time was 3.25 lac plus 75k retention bonus. 
+
+PS, if you know big data and hadoop, you are in for treat. PUT THAT IN BOLD LETTERS IN YOUR RESUME.
+		</companyDetail>
+        <companyPattern>
+            <roundId>1</roundId>
+            <roundName>Aptitude test</roundName>
+            <roundDetail>The first round is a online test and it comprise two parts. Both are done seperately and on basis of result, they divide you in two parts. First for technical positions and second for business analyst.
+
+a. Technical - Comprises question on OOPS, data structure and DBMS. The question are you good, above average. So advice you guys to go through data structure MCQ and start practising. 
+
+b. Aptitude Test - As AQ is data based company, they will also judge you on basis of your problem-solving skills. There will be questions from Data Interpretation , Quant , Reading Comprehension and General vocab.  
+            </roundDetail>
+        </companyPattern>
+		 <companyPattern>
+            <roundId>2</roundId>
+            <roundName>Coding round</roundName>
+            <roundDetail>If you are short listed for developer, you have to give coding test. In 2015, they take test on paper, but as now there are multiple online test tools are available, so it may be possible you have to give test on such platforms. Anyways, there may be multiple questions and you have to write the logic for that. 
+            </roundDetail>
+        </companyPattern>
+		
+		 <companyPattern>
+            <roundId>3</roundId>
+            <roundName>Technical Interview</roundName>
+            <roundDetail>If you make through the Technical Interview, you are in for next hurdle. The question will be based on data structure and DBMS. Questions are good and logical. The question can range from theory to write code on paper. 
+Business analyst guys will be doing a case study. The exact details are not known, but if you are doing coaching for management exams, you may be familiar with this. Just find a class mate who is doing coaching for CAT or just google it. 
+            </roundDetail>
+        </companyPattern>
+		 <companyPattern>
+            <roundId>4</roundId>
+            <roundName>HR Interview</roundName>
+            <roundDetail>HR Round was good. You will be judged on basis of your communication skill, confidence and your reaction to scenarios. Maintanin eye
+			contact and don't stammer. practice by communicating your friends in English to prepare for HR round.
+            </roundDetail>
+        </companyPattern>
+		 <companyDocuments>
+Documents:
+1. SSC Marksheet
+2. HSC/Diploma Marksheet
+3. Graduation mark sheets
+5. Photograph
+6. Resume
+        </companyDocuments>
+		<companyEligibility>
+Good technical or analytical skills.
+Should have good communication skills.
+Must have consistent academic records from Class X on wards
+        </companyEligibility>
+		 <companyUsefulLinks>
+				<companyLinkText>AQ home page</companyLinkText>
+				<companyLinkDesc>http://www.aqinsights.com/</companyLinkDesc>
+        </companyUsefulLinks>
+		 <companyUsefulLinks>
+				<companyLinkText>AQ Interview questions</companyLinkText>
+				<companyLinkDesc>https://www.glassdoor.co.in/Interview/Analytics-Quotient-Interview-Questions-E449758.htm</companyLinkDesc>
+        </companyUsefulLinks>
+		 <companyUsefulLinks>
+				<companyLinkText>AQ Interview question</companyLinkText>
+				<companyLinkDesc>https://ambitionbox.com/analytics-quotient-interview-questions</companyLinkDesc>
+        </companyUsefulLinks>
+	</company>
+	<company>
+	<companyId>4</companyId>
+        <companyName>Wipro</companyName>
+<companyDetail>As MBM only allows TCS, wipro recruits the students via offcampus in JEET(This was the case in 2015, Let me update is this is still the scenario).
+		
+Now Wipro is another one of the IT giants in India, but one thing is clear. TCS IS BETTER THEN WIPRO. But, if you are not selected in TCS, you can apply for Wipro. As college's band prefers to give 5 job to topper and 1 job to average guy. The competetion from MBM would not be that great, but a wise man once said, any competetion is good competition. Now I have absolutely 0 idea about the selecction procedure. So I can not give you insight at how the selection procedure go, but the apprach is same as other MNCs, have a good aptitude and basic technical skills like OOPS and Java and you are fit for developer.
+		</companyDetail>
+        <companyPattern>
+            <roundId>1</roundId>
+            <roundName>Online test</roundName>
+            <roundDetail>Wipro's latest pattern for recruitment consists of a computer adaptive Online Aptitude Test and an Essay Writing Test. The duration of the Aptitude Test for this year is 1 hour and 12 minutes (72 minutes). It comprises of 4 sections, which are, Quantitative Aptitude, Logical Reasoning, Verbal Ability, and Technical Aptitude. Once the student attempts a question, he/she will not have the option to go back and change their answer.The Online Aptitude Test does not have negative marking.
+
+The Wipro Placement Pattern considers the Essay Writing section to be an elimination round. This is an addition that has been made to the Wipro Placement Pattern 2016. This Essay Writing Test is considered to be the 5th section of Wipro's Online Test and its duration is 25 minutes.In this test, the candidate is given a scenario or a situation on which he/she is expected to write an essay. The essay must contain at least 300 words.
+
+a. The first part will be Quantitative Aptitude. which will contain approx 16 questions.
+b. The second part will be logical reasoning. This will club approx 14 questions.
+c. The third part will be verbal ability. This will contain 25 questions.
+d. The 4th part will be Technical aptitude. This will contain 14 questions.
+e. The 5th part will be of essay writing. duration would be of 25 minutes.
+            </roundDetail>
+        </companyPattern>
+		 <companyPattern>
+            <roundId>2</roundId>
+            <roundName>Technical round</roundName>
+            <roundDetail>The second round of the Wipro Placement Pattern 2016 - 17 is the Technical Interview. The candidates who clear the Online Test will qualify for this round. It is conducted by a Human Resource Manager with technical expertise. This round is conducted to test the candidates technical knowledge. The questions asked in this round are based on Programming languages such as C/C++, Java, and questions related to Database concepts.
+
+The candidates who are from a Non-Computer Science background may be asked questions relating to their core subjects.
+            </roundDetail>
+        </companyPattern>
+		
+		 <companyPattern>
+            <roundId>3</roundId>
+            <roundName>Personal Interview</roundName>
+            <roundDetail>Only those candidates who qualify the Technical Interview will make it to the Personal Interview Round. This round is also conducted by a Human Resource Manager. The Personal Interview is conducted to test the candidates confidence, communication skills, and body language. This round may include puzzles that test the candidates technical skills.
+            </roundDetail>
+        </companyPattern>
+		 <companyDocuments>Documents:
+1. SSC Marksheet
+2. HSC/Diploma Marksheet
+3. Graduation mark sheets
+5. Photograph
+6. Resume
+        </companyDocuments>
+		<companyEligibility>
+10th pass, at least 50% in XII, 60% in Graduation.
+        </companyEligibility>
+		 <companyUsefulLinks>
+				<companyLinkText>Wipro Career home page</companyLinkText>
+				<companyLinkDesc>http://careers.wipro.com/campus-internship.aspx</companyLinkDesc>
+        </companyUsefulLinks>
+		 <companyUsefulLinks>
+				<companyLinkText>Wipro Home page</companyLinkText>
+				<companyLinkDesc>http://www.wipro.com/india/</companyLinkDesc>
+        </companyUsefulLinks>
+		 <companyUsefulLinks>
+				<companyLinkText>Wipro placement-papers 1</companyLinkText>
+				<companyLinkDesc>https://www.indiabix.com/placement-papers/wipro/</companyLinkDesc>
+        </companyUsefulLinks>
+		<companyUsefulLinks>
+				<companyLinkText>Wipro placement-papers 2</companyLinkText>
+				<companyLinkDesc>http://placement.freshersworld.com/wipro-question-papers-and-answers/33140000225</companyLinkDesc>
+        </companyUsefulLinks>
+		<companyUsefulLinks>
+				<companyLinkText>Wipro placement-papers 3</companyLinkText>
+				<companyLinkDesc>http://www.m4maths.com/placement-puzzles.php?SOURCE=Wipro</companyLinkDesc>
+        </companyUsefulLinks>
+		<companyUsefulLinks>
+				<companyLinkText>Wipro placement-papers 4</companyLinkText>
+				<companyLinkDesc>http://placementpapers.students3k.com/wipro-placement-papers-aptitude-technical-qa/</companyLinkDesc>
+        </companyUsefulLinks>
+	</company>
+</placementPonint>

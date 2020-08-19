@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.ashish.eccinfo">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name="com.example.ashish.eccinfo.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:label="@string/title_activity_semester" android:name="com.example.ashish.eccinfo.SemesterActivity" android:parentActivityName=".MainActivity"/>
+        <activity android:label="@string/title_activity_semester_syllabus" android:name=".SemesterSyllabus" />
+        <activity android:label="Subject" android:name=".SemesterSubject"/>
+        <activity android:name=".exampattern.ExamPatternDisplay"/>
+        <activity android:name=".exampattern.ExamPatternShowImage"/>
+        <activity android:name=".academic.AcademicWorkshopDisplay"/>
+        <activity android:name=".academic.AcademicWorkshopLinks"/>
+        <activity android:name=".placementPoint.PlacementCompanyDisplay"/>
+        <activity android:name=".placementPoint.PlacementSelectionProcess"/>
+        <activity android:name=".placementPoint.PlacementSelectionProcessDisplay"/>
+        <activity android:name=".placementPoint.PlacementDocumentDisplay"/>
+        <activity android:name=".placementPoint.PlacementExamPatternDisplay"/>
+        <activity android:name=".placementPoint.PlacementMain"/>
+
+        <activity android:name=".exampattern.ExamPatternShow"/>
+        <activity android:label="@string/title_activity_useful_link_main" android:name=".links.UsefulLinkMain"
+            android:parentActivityName=".MainActivity"/>
+        <activity android:label="@string/title_activity_after_college" android:name=".aftercollege.AfterCollegeActivity"
+            android:parentActivityName=".MainActivity"/>
+        <activity android:label="Post College" android:name=".aftercollege.PostCollegeDisplay"/>
+        <activity android:label="Post College" android:name=".aftercollege.AfterCollegeActivityDisplay"/>
+        <activity android:label="Post College" android:name=".aftercollege.AfterCollegeDownload"/>
+        <activity android:label="@string/title_activity_academic_main" android:name=".academic.AcademicMain" />
+        <activity android:label="@string/title_activity_activity_downloads" android:name=".academic.ActivityDownloads" />
+        <activity android:label="@string/title_activity_academic_workshop" android:name=".academic.AcademicWorkshop" />
+        <activity android:label="@string/title_activity_academic_internship" android:name=".academic.AcademicInternship" />
+        <activity android:label="@string/title_activity_academic_final_year_project" android:name=".academic.AcademicFinalYearProject" />
+        <activity android:label="@string/title_activity_academic_final_year_project_display" android:name=".academic.AcademicFinalYearProjectDisplay" />
+               <activity android:label="@string/title_activity_placement_tcs" android:name=".placementPoint.PlacementTCS"
+                   android:parentActivityName=".placementPoint.PlacementMain"/>
+        <activity android:label="@string/title_activity_placement_tcsdoc" android:name=".placementPoint.PlacementTCSDoc"
+            android:parentActivityName=".placementPoint.PlacementTCS"/>
+        <activity android:label="@string/title_activity_placement_tcsexam_pattern" android:name=".placementPoint.PlacementTCSExamPattern"
+            android:parentActivityName=".placementPoint.PlacementTCS"/>
+
+        <activity android:label="@string/title_activity_placement_tcslinks"
+            android:name=".placementPoint.PlacementTCSLinks" android:parentActivityName=".placementPoint.PlacementTCS"/>
+        <activity android:label="@string/title_activity_semester_subject_diplay"  android:name=".SemesterSubjectDisplay" />
+        <activity android:label="@string/exam_pattern"  android:name=".exampattern.ExamPatternSemesterDisplay" />
+        <activity android:label="@string/contact_us"  android:name=".contact.ContactUs" />
+
+    </application>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"></uses-permission>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"></uses-permission>
+    <uses-permission android:name="android.permission.INTERNET"></uses-permission>
+
+</manifest>

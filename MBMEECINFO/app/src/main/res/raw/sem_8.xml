@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<semester>
+	<semID>8</semID>
+	<subject>
+		<subID>1</subID>
+		<subName>Real Time and Embedded systems</subName>
+		<subSyllabus>
+Introduction to embedded systems and their basics, Multitasking. Use of programming languages, Real time kernel, size of embedded programs. Data Representation Fixed Precision Binary members, binary representation o Integers and Real numbers, ASCII and BCD. Hardware requirements and time constraints, reliability and cost, design decisions.
+
+Selection of microprocessor / Microcontroller for embedded systems, computing the size of memory required RAM and ROM.
+
+S/W tools for embedded system development :
+Mixing C and assembly, C – Run time environment, Use of cross compilers, use of tools sets in Embedded Linux, GNU Tool chain for cross compiling.
+
+Introduction to real – time computing:
+Characteristics of real – time system and tasks, performance measurement of real – time systems, estimation of program runtime.
+
+Real – time system design:
+hardware requirements, systems development cycle, data – transfer techniques, synchronous and asynchronous data – transfer techniques, standard interfaces.
+
+Real – time communication, fault – tolerance techniques, cause of failure, fault types, fault detection, redundancy, integrated failure handling.
+		</subSyllabus>
+		<book>REAL TIME SYSTEMS - C M Krishna, K G Shin
+
+Notes for Embedded System
+		</book>
+	</subject>
+	
+	<subject>
+		<subID>2</subID>
+		<subName>Computer Communication and Data Networks</subName>
+		<subSyllabus>
+Computer communication:
+Layered Architecture of computer communication networks. DNA, SNA and ISO- OSI models. Properties of LANs, MANs, and WANs. Physical level, data link and transport protocols. Multiple access protocol organization. Routing techniques flow and congestion control in packet switched networks. Window scheme. Network interconnection – bridges and routers. Dead Lock avoidance. Elements of queuing analysis. Introduction to network security.
+
+Data Networks:
+Structure and functions of network protocols. Data link control procedures. Operation of HDLC, SDLC, BISY NC, X.25 and x.21 Protocols Elements of Polling ALOHA, Reservation ALOHA, CSMA and token ring. Characteristic features of LANs.
+
+Basics of Internet:
+Evolution; dialup, XDSL, ADSL, cable modem and other access methods. IP address and domain name system, TCP/IP, Internet applications and www.
+
+		</subSyllabus>
+		<book>Data Communication and Networking - Forouzan (4th ed)
+		</book>
+	</subject>
+	
+	<subject>
+		<subID>3</subID>
+		<subName>Multimedia Technology</subName>
+		<subSyllabus>
+Introduction to multimedia and its applications, Characteristics of Text, Sound, Image, Animation, Video.
+
+Multimedia Hardware :
+SCSI,MCI, Memory and storage devices, Output Hardware, Communication devices.
+
+Introduction to Multimedia Systems:
+Architecture and components, multimedia distributed processing model, synchronization, orchestration and quality of service architecture.
+
+Audio and Speech:
+Data acquisition, sampling and quantization, human speech production mechanism, digital model of speech production, analysis and synthesis psycho- acoustics, low bit rate speech compression, MPEG audio compression.
+
+Images and Video:
+Image acquisition and representation, composite video signal, NTSC, PAL and SECAM video standards; Bilevel image compression standards, JPEG and MPEG.
+
+Multimedia communication:
+Fundamentals of data communication and networking, bandwidth requirements of different media; real time
+
+constraints:
+Audio latency, video data rate; Multimedia over LAN and Internet, multimedia conferencing.
+
+Multimedia Information Systems:
+Operating system support for continuous media applications, limitations of OS, new OS support, Media stream protocol, file system support for continuous media, data models for multimedia and hypermedia information, content based retrieval of unstructured data.
+		</subSyllabus>
+		<book>Multimedia Systems - Ralf Steinmetz, Klara Naharstedt<br />
+some notes
+		</book>
+	</subject>
+	
+	<subject>
+		<subID>4</subID>
+		<subName>Mobile Communication and computing</subName>
+		<subSyllabus>
+Concept of mobile telecommunications.
+Mobile radio network issues, cell size coding, modulation and diversity Base station subsystems. Access methods. Location strategies for personal communications services. Cell design principles.
+
+Elements of Radio Paging and microcellular radio communication:
+Fixed and dynamic channel assignment, Allocation of spectrum and channels, Concepts of hexagon cells, mobile identification system and registration of mobile, call procedure. Concepts of GSM and CDMA radio system architecture, roaming, digital speech and channel coding.
+
+Mobililty computing:
+Issues, challenges, and benefits;
+
+Network Programming:
+Process communication techniques, remote login, ftp, socket programming, RPC, RMI, Client – server programming.
+
+Process Migration :
+Steps, advantages, application taxonomy, alternatives, case study of DEMOS/MP.
+
+Mobile Computing :
+Physical mobility, challenges, limits and connectivity, mobile IP and cellular IP in mobile computing, case study of CODA.
+
+Wireless LANs :
+Introduction to IEEE 802.11, Bluetooth and IrDA technologies and standards.
+
+Introduction to Mobile Adhoc Networks: Hidden and exposed terminal problems; Routing protocols: DSDV, DSR, AODV. Elements of Wireless Sensor Networks - Motes, smart dust, TinyOS, routing protocols.
+
+Handheld Devices and OS :
+Palm, HP; PalmOS, WindowCE, Windows Mobile. Conceptual study Mobile Internet and WAP, gateways, Mobile agents: Aglets, Tcl, PMADE.
+		</subSyllabus>
+		<book>
+MOBILE COMMUNICATION - Joschen Schiller
+
+Wireless Communications : Principles and Practice - Theodre S Rappaport
+
+Wireless Communications and Networks - William Stallings
+		</book>
+	</subject>
+	
+	<subject>
+		<subID>5</subID>
+		<subName>Digital Signal Processing</subName>
+		<subSyllabus>
+Digital Signal Processing :
+Advantage of digital filters and processing. Fundamentals of discrete time systems. Fourier transform of sequences. Discrete – time filter structures. Z – Transform system representation solution of linear constant co- efficient difference equations. Digital filters design by transformation from analog filters. Simple realization of IIR and FIR filters DFT and FFT.
+		</subSyllabus>
+		<book>
+Digital Signal Processing - S Salivahnan, C Ganapriya
+
+		</book>
+	</subject>
+</semester>

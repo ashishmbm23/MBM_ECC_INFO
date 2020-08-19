@@ -1,0 +1,204 @@
+<?xml version="1.0" ?>
+<semester>
+	<semID>3</semID>
+		<subject>
+			<subID>1</subID>
+			<subName>Applied Engineering Mathematics–I</subName>
+			<subSyllabus>
+Section A : Differential equations : 
+Simultaneous differential equations, Total differential equations, Partial differential equations of
+first order, Charpit’s method, Linear homogeneous partial differential equations with constant coefficients, Second order
+partial differential equations : Monge’s method for the equation of type
+Rr + Ss + Tt = V
+
+Solution of Wave, Heat and Laplace equations using separation of variables method.
+
+Section B : Complex Analysis 
+
+Analytic function, Harmonic function, Construction of an Analytic function, Complex integration:
+Cauchy’s integral theorem, Cauchy’s integral formula, Derivative of Cauchy’s integral formula.
+
+Taylor’s and Laurent’s series expansion of complex functions.
+
+Cauchy’s residue theorem and its application to evaluate the contour integrals of type
+limit 0 to 2 pi f (x)dx  and limit -oo to +oo f (x)dx
+
+Transformations: conformal and bilinear transformations.
+
+Section C
+
+Probability and Statistics: Theorems of probability and their application, Binomial, Poisson and Normal probability
+distribution. Correlation and Regression analysis of two parameters.
+
+Note: Candidates are required to attempt FIVE questions in all, selecting at least one from each Section.
+			</subSyllabus>
+			<book>1.Differential Equations - Bansal and Dhami
+2. Complex Analysis - G N Purohit, S P Goyal
+3. Vector Calculas - Sharma and Vasishtha
+			</book>
+		</subject>
+
+		<subject>
+			<subID>2</subID>
+			<subName>Network Theory</subName>
+				<subSyllabus>
+				Network Equations:
+Topology incidence, cut-set end tie-set matrices. Mesh and nodal analysis of networks with independent and dependent sources. Duality, Transient and steady state solutions of D.C. and A.C. networks.
+
+Network Theorems:
+Superposition, Thevenin, Norton, Reciprocity. Maximum power transfer. Millman and Tellegen's Theorems and their applications to D.C. and A.C. circuits
+
+Resonance:
+Resonance in series and parallel- circuits. Q-Factor, bandwidth and selectivity.
+
+Non-sinusoidal Periodic Waveforms:
+Fourier series- trigonometric and exponential forms. Response of network to non-sinusoidal periodic waveforms.
+
+Two Port Networks:
+Different two port parameters and their inter-relations and characteristic functions, interconnection of two port networks, Brune's test. Network configurations. Symmetrical and asymmetrical two port communication networks. Iterative, Image and characteristic impedances, Propagation, attenuation, phase and Image transfer constants. Balanced, unbalanced and reciprocal networks; T.L. lattice and bridged T network<br />
+
+Network Functions:
+Generalized concept of complex frequency, Impedance and admittance functions. Exponential excitation and system functions. Driving point and transfer functions. Pole zero configuration of system functions.
+				</subSyllabus>
+			<book>Network and Systems - Ashfaq Husain
+
+			</book>
+		</subject>
+
+		<subject>
+			<subID>3</subID>
+			<subName>Solid state Electronics and Devices</subName>
+			<subSyllabus>Introduction to Solid State Devices:
+Space charge region and junction capacitance. Minority carrier injection, carrier storage and transient response. Impact ionization and avalanche break-down.
+
+Analytical theory of junction diodes
+BJT, JFET, MOSFET, UJT, diffused transistors, avalanche transistors. Degenerated semi-conductors and theory of tunneling. Theory of tunnel diodes, Zener diodes, Varactor diodes, photo diodes, LEDs, photo-transistors, photo FETs and LASER. Elementary theory of composite junction. Ohmic junctions and hetro junctions.
+
+Characteristics and small signal models
+of MOSFET, MISFET and MESFET; Characteristics of CMOS and BiCMOS; design of CMOS inverter: Power dissipation characterization, timing issues and noise margins; CMOS based NAND and NOR gates.
+
+Single crystal growth
+wafer preparation epitaxial growth deposition and characterization of oxide layers, masking Lnography, dopant diffusion, and ion- implantation.
+
+Process integration
+MOS based silicon microcircuits, BJT based silicon microcircuits, BiCMOS process flow.
+			</subSyllabus>
+			<book>
+Solid State Electronic Devices - Ben G Streetmen, Sanjay kumar banarjee
+			</book>
+		</subject>
+
+		<subject>
+			<subID>4</subID>
+			<subName>Data Structures</subName>
+			<subSyllabus>
+ Complexity Analysis :
+ Time and Space complexity of algorithms, asymptotic analysis, big O and other notations, importance of efficient algorithms, program performance measurement, data structure and algorithms.
+
+ Linear Lists :
+ Abstract data type, sequential and linked representations, comparison of insertion, deletion and search operations for sequentiaL and linked lists, list and chain classes, doubly linked lists, circular lists, linked lists through simulated pointers, skip lists, applications of lists in bin sort, radix sort, sparse tables.
+
+ Stacks and Queues :
+ Abstract data types, sequential and linked implementation, exception handling in classes, representative applications such as parenthesis matching,towers of Hanoi, wire routing in a circuit, finding path in a maze, simulation of queuing systems equivalence problem.
+
+ Hashing :
+ Search efficiency in lists and skip lists, hashing as a search structure, hash table, collision avoidance, linear open addressing, chains uses of hash tables in text compression. LZW algorithm
+
+ Trees :
+ Binary trees and their properties, terminology, sequential and linked implementations, tree traversal methods and algorithms, heaps as priority queues, heap implementation, insertion and deletion operations.
+
+ Heapsort, heaps in Huffman Coding, Leftist trees, tournament trees, use of winner trees in mergesort as an external sorting algorithm, bin packing.
+
+Search Trees :
+Binary search trees, search efficiency, insertion and deletion operations, importance of balancing, AVL Trees, searching insertion and deletions in AVL trees, red- black trees, comparison with AVL trees, search insert and delete operations.
+
+Multiway Trees :
+issues in large dictionaries, m-way search trees, B-trees, search insert and delete operations, height of B-trees 2-3 trees, sets and multisets in STL.
+			</subSyllabus>
+			<book>
+Data Structure Through C: A Practical Approach - G. S. Baluja
+
+DATA STRUCTURES WITH C (SCHAUM Series)- Seymor Lipschutz<br />
+
+            </book>
+		</subject>
+
+		<subject>
+			<subID>5</subID>
+			<subName>Digital Electronics –I</subName>
+			<subSyllabus>
+Device Characteristics:>
+Steady state and transient switching characteristics of diodes, BJTs, FETs, UJTs. Wave shaping circuits. Integrating and differentiating circuits, effects of time constant, relation of tilt time to time constants. Clipper and clamper circuits using diodes and transistor. Saturated and unsaturated transistor switches. Speed-up capacitors. Inverter circuits. Performance of pulse transformer and lumped distributed parameter electromagnetic delay lines.
+
+Relaxation Oscillators:
+Theory, operation and performance of astable, monostable and bistable multivibrators. Different triggering circuits. Theory of Schmitt trigger. Comparison of performance of various circuits configurations of multivibrators and their fields of applications. Tunnel diode. UJT relaxation oscillator. Theory of astable and monostable blocking oscillators and their triggering methods.
+
+Sweep Circuits:
+Free running and triggered modes. Theory and common circuits of voltage and current time base generators.<br />
+
+Sampling Gates:
+Theory, operation and applications of unidirectional and bi-directional sampling gates using diodes and transistors.
+			</subSyllabus>
+			<book>Millman's Pulse, Digital and Switching Waveforms - Jacob Millman, Herbert Taub, Suryaprakash Rao Mohitiki
+            </book>
+		</subject>
+			<subject>
+		<subID>6</subID>
+		<subName>Object Oriented Programming</subName>
+		<subSyllabus>
+A review of C. Concepts of object oriented programming using C++. Data Types: elementary and derived data types, literals.
+
+Operators and expressions:
+Operators, association and precedence rules of operators, expressions using unary, binary and ternary operators.
+
+Statements:
+declarations as statements, selection statements, iteration statements, goto statement, break statement return statement, try –catch block.
+
+Functions:
+void functions, functions with return value, call by value and call by reference parameter passing, default parameters, recursive functions,inline functions.
+
+Classes:
+classes, object friend functions, classes within a class, local classes, global classes constructors, destructors.
+
+Derived classes:
+single and multiple derivation of classes, multilevel and hybrid derivation of classes, constructors, destructors.
+
+Polymorphism:
+Function and operator overloading, virtual functions.
+
+Streams:
+input and output of built –in data types, manipulators.
+
+File streams :
+opening a file, accessing a file, closing a file.
+
+Exceptions:
+catching exceptions, rethrowing the exception, standard exceptions.
+
+Templates:
+defining a template, template instantiation, function templates, class templates.
+
+Elementary case study of a object oriented database in C++.
+		</subSyllabus>
+		<book>
+Object Oriented Programming with C++ - E Balagurusamy
+		</book>
+	</subject>
+
+		
+		<subject>
+			<subID>7</subID>
+			<subName>Special Mathematics(Diploma students only)</subName>
+			<subSyllabus>
+Differential Calculus:
+Asymptotes, curvature. Envelopes, evolutes, Concavity, Convexity and singular points, curve tracing
+
+Integral Calculus:
+Rectification and quadrate, Volumes and surfaces of Solids of revolution. Mean values of functions, differentiation under sign of integration.
+
+Differential Equations:
+Differential Equations of first order and first degree. Equations of the first order but not of the first degree. Linear differential equations with constant coefficients. Homogeneous Linear differential equations, second order differential equations with variable coefficients.<br />
+			</subSyllabus>
+			<book>1.Differential and Integral Math vol 1 for jnvu - Gokhroo</book>
+		</subject>
+</semester>

@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<semester>
+    <semID>1</semID>
+    <subject>
+        <subID>1</subID>
+        <subName>Engineering Chemistry</subName>
+        <subSyllabus>Water:
+Sources of water, requisites of wholesome water, Methods of treatment of water for domestic and industrial use, sedimentation filtration and industrial use, sedimentation filtration and industrial use, sedimentation filtration and sterilization of water, break point chlorination.
+
+Water Analysis :
+Water as solvent, types of impurities present in water, Hardness of water, units of hardness, inter-relationship between various units, determination of hardness, alkalinity, chloride, sulphate, fluoride and iron, dissolved oxygen and carbon dioxide.
+
+Solid fuels:
+Coal its original and classification, proximate and ultimate analysis, gross and net calorific values. Determination of calorific values by Calorimeter, soft and metallurgical coaks, Carbonisation process.
+
+Liquid fuels:
+Merits and demerits, natural gasoline, different types of gasoline obtained from catalytic cracking reforming polymerization, synthetic gasoline.
+
+Gaseous fuels :
+Water gas, producer gas, Semi water and carbureted gas, CNG, LPG, their preparation, composition and calorific values, Junker’s calorimeter Analysis of the gases by Orsa apparatus [Numerical problems based on above].
+
+Nuclear fuels:
+Nuclear binding energy, nuclear fission and nuclear fusion, elementary idea reactor concepts, nuclear power reactor and breeder reactor.
+
+Corrosion:
+Classification and theories of corrosion, Factors effecting corrosion, corrosion control by alloying, passivators inhibitors and alternative by environment and by catholic protection. Cement: Raw materials and principles of manufacturing cement, chemistry of setting of cement and analysis of cement.
+
+Abrasives :
+Abrasive power, natural and artificial abrasives, their general properties and uses. Refractoriness: Definition, criteria, classification and uses.
+
+Polymers:
+Classification types and mechanism of polymerization, methods of polymerization, important polymers and resins, constituents of plastics, fabrication of plastic material. Natural and synthetic rubber, vulcanization of rubber, silicon oils.</subSyllabus>
+        <book>1.ENGINEERING CHEMISTRY - Jain and Jain
+        </book>
+    </subject>
+
+    <subject>
+        <subID>2</subID>
+        <subName>Civil Environmental Engineering</subName>
+        <subSyllabus>Section – A
+Various types of maps and their uses. Principles of Survey, Errors in measurement, measurement of horizontal distances, offsetting, rating and reciprocal ranging.
+
+Compass Survey:
+Principle, declination, local attraction. Leveling: Basic Definition curvature and refraction, reciprocal levelling, fly leveling, calculations of levels.
+
+Basic Building Materials:
+Cement, Bricks, Stone, Wood, Concrete. Function and requirements of foundation, Bricks masonry, Stone Masonry, Introduction of Building Component like stairs, floors Green Building, Basic of stair cases, roof.
+
+Section- B
+Basics of Environment, Global Environmental issues, Environmental issues, Environmental Laws in India. Concept of Integrated built environment, concept of sustainable development, Role of an individual in conservation of natural resources. Sources of water, Water quality Impurities in Water and their removal. Eutrophication of lakes. Self purification of streams, Basics of waste water treatment.
+
+Concept of Ecosystem –
+Structure and function of ecosystem cycles, food chains, Major Ecosystem. Bio diversity – definition, Genetic Biodiversity, species biodiversity, Ecosystem Biodiversity, value of Biodiversity, threats of biodiversity, conservation of biodiversity.
+
+ Types of solid wastes. Municipal solid waste collection and disposal methods, E-Waste handling. Nuclear waste Management.</subSyllabus>
+        <book>1. Surveying: B.C. Punmia.
+2. Civil Engineering Materials : Parbin singh
+3. Environmental Studies : Benny Joseph
+4. Fundamentals of Ecology : M.C. Das
+5. Introduction of Environmental Sciences : Y. Anjaneyulu
+6. Basic Civil Engineering: S. Ramamurtham.
+7. Fundamental of Surveying: S.K. Roy.
+8. Environmental Engineering : D. Srinivasan
+        </book>
+    </subject>
+
+    <subject>
+        <subID>3</subID>
+        <subName>Mathematics – I</subName>
+        <subSyllabus>Section A
+Differential Calculus:
+Partial differential and its applications, Maxima and Minima of two and more independent variables, Jacobians, Asymptotes, Curvatures (formulae without proofs), Envelopes and Curve tracing.
+
+Section B
+Integral Calculus:
+Gamma and Beta functions, Rectification, Volume and surface of solids of revolution. Differentiation under the integral sign. Double and triple integrals with their applications to area, volume, surface area and mass. Centre of gravity and moment of inertia.
+
+Note:
+Four questions will be set from each section. Students are required to attempt five questions selecting at least two from each section.</subSyllabus>
+        <book>1.Differential and Integral Math vol 1 for jnvu - Gokhroo
+        </book>
+    </subject>
+
+    <subject>
+        <subID>4</subID>
+        <subName>ENGINEERING MECHANICS</subName>
+        <subSyllabus>Systems of coplanar forces, Resultant of concurrent forces, parallel forces and non-concurrent non parallel system of forces, moment of force about any point, couples, Varignon’s theorem, distributed forces in plane.
+
+Introduction to centroid and centre of gravity, introduction to moment of inertia and its theorem.
+
+Equilibrium of system of coplanar forces, condition of equilibrium for concurrent forces, parallel forces and non-current, non-parallel general system of forces and couples.
+
+Simple Stresses and Strains:
+Concept of stress and strain in three dimensions and generalized, Hook’s law; Direct Stress and strain: free body diagrams, Young’s modulus; Tension Test of mild steel and other materials: true and apparent stress, ultimate strength, yield stress and permissible stress: Stresses in prismatic and non prismatic members and in composite members: Temperature stresses; Shear stress, Shear Strain, Modulus of rigidity.
+
+Elastic constants-
+Poisson’s ratio, Volumetric strain, Bulk modulus, relation between elastic constants, State of simple shear, Complementary shear stress.
+
+bTypes of supports, loads, beams. Determination of reactions at supports for various types of loads on statically determinate beams. Introduction to Shear force and bending moment diagrams (concentrated loads and uniformly distributed loads over cantilever and simply supported beams).
+
+Analysis of plane trusses by using method of joints and method of section.
+
+Friction-
+Introduction to laws of friction, cone of friction, equilibrium of bodies on inclined plane.
+
+Belt friction-
+Transmission of power by belts and ropes, centrifugal and initial tension in the belts and ropes, condition of maximum power transmission, flat belts and flat pulleys and ropes on grooved pulleys.</subSyllabus>
+        <book>1.Mechanics Of Materials - Dr B C Punmia
+        </book>
+    </subject>
+
+    <subject>
+        <subID>5</subID>
+        <subName>BASIC ELECTRICAL ENGINEERING</subName>
+        <subSyllabus>
+Elements of Power System:
+Methods of Power Generation Hydroelectric, Thermal and Nuclear, Introduction to transmission and distribution.
+
+D.C. Circuits:
+Kirchhoff’s Laws, Superposition, Thevenin’s and Norton’s theorems, star-delta transformation, Power calculation.
+
+A.C. Circuits:
+Generation of sinusoidal wave form amplitude, frequency and time –period; Concept of phase and phase difference, phasor representation, Average and R.M.S. Values, Form factor for various wave forms. Concept of impedance, Analysis of A.C. Single- phase and balanced three-phase circuits, phasor diagrams, Power and Power factor.
+
+Transformers:
+E.M.F. Equation of single phase transformer, constructional features relation between voltage, current and turns ratio, Losses, Efficiency and its determination by direct loading, Autotransformer, 3 phase transformer connections.
+
+D.C. Machines:
+Constructional features, principle of operation, E.M.F. Equation of D.C. generator, Torque equation of D.C. Motor, D.C. shunt motor starter.
+
+Three phase Indication Motor:
+Constructional features, rotating magnetic field, principle of operation, concept of slip, D.O.L. Starting, star- delta starting, auto-transformer starting.
+
+Alternators:
+Constructional features, EMF equation, Concept of voltage regulation.</subSyllabus>
+        <book>1.Fundamentals Of Electrical Engineering - Ashfaq Husain
+        </book>
+    </subject>
+
+
+
+  </semester>

@@ -1,0 +1,166 @@
+<?xml version="1.0" ?>
+<semester>
+    <semID>1</semID>
+    <subject>
+        <subID>1</subID>
+        <subName>INTRODUCTION TO COMPUTER PROGRAMMING</subName>
+        <subSyllabus>Introduction to Computer:
+Overview of Computer organization, Number systems, character representation codes, Binary, hex, octal codes and their inter conversions. Binary arithmetic, Introduction to Operating Systems, translators, compiler, interpreter and assembler.
+
+
+Programming in C Language:
+Introduction to Problem Solving: Flow charts, Tracing flow charts, Problem solving methods, Need for computer Languages, Sample Programs written in C.
+
+C Language preliminaries:
+C character set, Identifiers and keywords, Data types, Declarations, Expressions, statements and symbolic constants
+
+Input-Output:
+getchar, putchar, scanf, printf, gets, puts, functions.
+
+Operators and expressions:
+Arithmetic, unary, logical, bit-wise, assignment and conditional operators.
+
+Control statements:
+While, do-while, for statements, nested loops, if else, switch, break, Continue, and goto statements, comma operators.
+
+Storage types:
+Automatic, external, register and static variables.
+
+Functions:
+Defining and accessing, passing arguments, Function prototypes, Recursion, Library functions, Static functions
+
+Arrays:
+Defining and processing, Passing arrays to a function, Multi dimensional arrays.
+
+Strings:
+Defining and operations on strings.
+
+Pointers:
+Declarations, Passing pointers to a function, Operations on pointers,
+
+Structures:
+Defining and processing, Passing to a function, Unions, typedef, array of structure, and pointer to structure.
+
+File Processing:
+Concept of files, File opening in various modes and closing of a file, reading from a file, writing on to a file.
+
+
+Introduction to Cyber Security:
+Information security concepts, security threats and vulnerabilities, cyber offences and cyber crimes, awareness of cyber security and its measures, awareness of authentication and authorization, password management and biometrics, awareness of cryptography, cyber law,awareness of computer viruses, spyware and their remedies.</subSyllabus>
+        <book>
+            1. Let Us C - Yashwant Kanetkar
+            2. Notes
+        </book>
+     </subject>
+
+    <subject>
+        <subID>2</subID>
+        <subName>ENGINERRING PHYSICS</subName>
+        <subSyllabus>SECTION A
+Electricity and magnetism:
+Line integral of vector field, Potential difference, Field as gradient of potential and applications. Curl amd Divergence of a vector function, Divergence theorem, Gauss’s law- integral and differential form, Laplace’s equation and simple applications, Stoke’s theorem, Uniqueness theorem. Biot – savart law, curl and divergence of magnetic flux density. Ampere’s Law – integral and differential form. scalar and vector magnetic potentials, fields due to finite, infinite wire, small current loop using potentials, Application of vector magnetic potential in polarization and magnetization, Electronic currents in atoms and gyro magnetic ratio with its uses.
+
+Faraday’s law – integral and differential form. Self and mutual inductance in terms of Neumann equation charging and discharging of a capacitor through a resistor, growth and decay of current in a L-R circuit, energy stored in electric and magnetic fields, Equation of continuity, Displacement current, modified Ampere’s law, Maxwell’s equations-in source free, dielectric and conducting media, equation of electromagnetic wave propagation of plane electromagnetic wave in free space, Poynting vector and Poynting theorem. Maxwell’s equations in terms of electromagnetic potentials. Boundary conditions between two dielectric media for E, D,B and H. Snell’s law, Fresnel’s equations, Total internal reflection and Brewster’s law.
+
+Interference:
+Wedge film interference, Newton’s rings and Michelson’s interferometer-theory method of measurement of wave length of light and difference of two close wave lengths.
+
+Diffraction :
+Double slit Fraunhoffer diffraction pattern, Fraunhoffer diffraction by a transmission grating, formation of spectra, Rayleigh’s criterion for resolving power, resolving power of transmission grating and prism.
+
+Polarization :
+O and E waves, quarter wave and half wave plates, Different types of polarizedvelectromagnetic waves. Laurent’s half shade polari meter and determination of strength of sugar solution.
+
+SECTION B
+
+Relativistic mechanics:
+Galilean transformation. Postulates of special theory of Relativity, Lorentz transformation, Law of addition of velocities, mass variation with speed, mass energy and momentum relation.
+
+Quantum mechanics:
+Plancks hypotheses, Planck’s radiation law, Einstein equation for photoelectric effect, Compton scattering. Uncertainty principle, ground state energy and size of hydrogen atom. Schrodinger wave equation in one dimenision, Interpretation of wave function, normalization condition, cureent density, solution of Schrodinger wave equation for a particle in one dimensional box and step potential.
+
+Solid state Physics:
+Crystal lattice, sc, bcc, fcc and hcc structures and their properties, Miller indices relation between interplaner distance and Miller indices, lattice Plane. Bragg’s law, Bragg’s spectrometer-its use in study of crystal structures, Laue equations for X-ray diffraction and reciprocal lattice vectors.
+
+Statistical distribution laws:
+Maxwell- Boltzmann distribution, Bose – Einstein distribution, Fermi-Dirac distribution.
+
+Lasers :
+Einstein’s coefficients, spontaneous and stimulated emission, population inversion, basic features of laser systems, principle of operation of He- Ne laser and solid state laser, optical fibers and properties.
+
+Nuclear physics :
+Properties of Alpha, Beta, Gamma radiations. Basic features of a gas filled detectors and Geiger- Muller counter.
+        </subSyllabus>
+        <book>ELECTRICITY AND MAGNETISM - A Mahajan, A Rangwala</book>
+    </subject>
+
+    <subject>
+        <subID>3</subID>
+        <subName>MATHEMATICS – II</subName>
+        <subSyllabus>SECTION A
+rdinary Differential Equations:
+Differential equations of the first order and first degree, Differential equations of the first order but not of the first degree. Linear differential equations with constant coefficients, Linear homogeneous differential equations. Linear Differential Equations of second order including method of variation of parameters.
+
+Solid Geometry:
+Sphere-Equation in different forms, section by a plane, sphere through a given circle. Intersection of a sphere and a line, and of two spheres, tangent plane, Orthogonal sphere. (Cartesian form) Cone and Cylinder-Equations and their properties (Cartesian from).
+
+ECTION B
+Mechanics:
+Equilibrium of a rigid body under the action of three coplanar forces. Friction (excluding braking carriage). Common catenary (excluding approximation). Virtual work. Kinematics of uniplanar motion.
+
+Rectilinear motion:
+Simple Harmonic Motion and other laws. Motion in resisting medium.
+
+Note:
+Four questions will be set from each section. Students are required to attempt five questions selecting at least two from each section.</subSyllabus>
+        <book>Mathematics vol 2 for jnvu - Gokhroo</book>
+    </subject>
+
+    <subject>
+        <subID>4</subID>
+        <subName>ELEMENTS OF MECHANICAL ENGINEERING</subName>
+        <subSyllabus>Introduction to Thermodynamics:
+First and second laws of thermodynamics. Thermodynamics properties, closed and open systems, cyclic and non-cyclic processes, gas laws, internal energy. First law, application to non-flow processes, steady flow process and steady flow energy equation (SFEE) : Kelvin-Planck and Clausius statements of second law of thermodynamics. Reversible processes.carnot cycle, change of entropy of gases in thermodynamics processes [Numerical problems based on simple processes and Carnot cycle only].
+
+Internal Combustion Engine:
+ntroduction, Classification and brief description of I.C.Engine mechanism, 4 stroke and 2 Stroke petrol, gas and diesel engines; Otto, Diesel and dual cycles and their air standard efficiencies. Valve timing diagrams, comparison of petrol and diesel engines. Simple carburetor. Ignition systems of S.I. Engine. Diesel fuel pump and injector. Measurement and calculations of I.P., B.P., B.S.F.C.. engine performance, efficiencies.
+
+Properties of steam and Cycles:
+Difference between gas and vapour, generation of steam, triple point and critical point, Enthalpy, internal energy and entropy of steam. Use of steam table, Mollier chart and T-S chart. Heating and expansion of vapour in non-flow processes. Dryness fraction and its measurement. Vapour power cycles; Carnot, Rankine and modified Rankin cycles.
+
+Introduction to Primary Mechanical Processes:
+Introduction to Casting : pattern making and sand molding ; smithy operations, cutting, upsetting, drawing, bending and piercing : Elementary knowledge of gas welding and manual arc welding. Brazing and soldering.
+
+Introduction to Engineering Materials and their Properties:
+Basic Iron-carbon diagram, mechanical properties of ferrous and non-ferrous materials. Brief discussion of plain carbon steels. Effects of alloying element in steel. Cast iron, bearing materials, copper and aluminum.
+
+Elementary heat treatments:
+hardening annealing, tempering and normalization of plain carbon steels.</subSyllabus>
+        <book>
+1. THERMAL ENGINEERING(SI UNITS) VOL. I - Mathur and Mehta
+2. THERMAL ENGINEERING(SI UNITS) VOL. II - Mathur and Mehta
+        </book>
+    </subject>
+
+    <subject>
+        <subID>5</subID>
+        <subName>BASIC ELECTRONICS</subName>
+        <subSyllabus>Electronic Components and Devices:
+Construction and characteristics of Carbon composition, wire wound and Film resistors. Colour codes and ratings of resistors. Construction and characteristics of Capacitors for electronic circuits. Air core, Iron core and Ferrite core magnetic components. Qualitative theory of PN junction. Characteristic and Ratings of junction diode, zener diode, LED, photo diode, BJT,FET and SCR.
+
+Regulated Power Supply:
+Circuit configuration and analysis of half wave and full wave rectifiers. Various filter circuits. Elementary study shunt and series regulators.
+
+Amplifiers:
+Classification of Amplifiers. Concepts of voltage and power Amplification. Qualitative study of different single stage audio and power amplifiers. Concept of Gain and Frequency response and input and out put impedance of amplifiers. Small signal equivalent circuit of BJT. Concept of Positive and Negative feedback. Qualitative study of Sine wave Oscillators.
+
+Basic Electronic Instruments:
+Principles of general purpose CRO and its elementary application. Characteristics of Electronic analog and digital voltmeters. Concept of multimeters.
+
+Basic Electronic Entertainment systems:
+Concept of AM and FM Elementary block diagram of super heterodyne receiver. AM transmitter. Basic principl of Television. Television transmission standards. Block diagram of Television transmitter and receiver.
+        </subSyllabus>
+        <book>Basic Electronics - s.k sehdev</book>
+    </subject>
+
+</semester>

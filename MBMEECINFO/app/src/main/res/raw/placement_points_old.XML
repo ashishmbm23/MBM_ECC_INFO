@@ -1,0 +1,147 @@
+<?xml version="1.0" ?>
+<placementPonint>
+    <company>
+        <companyId>1</companyId>
+        <companyName>Tata Consultancy Services(TCS)</companyName>
+        <companyPattern>
+            <roundId>1</roundId>
+            <roundName>Email writing</roundName>
+            <roundDetail>
+You have to write an Email within 10 minutes in around 50-70 words. In the question you will be provided a scenario and around 10 words
+
+You have to use all the words in the mail. If you don't know meaning of a word, then don't bother. Just write down the words in the email.Also it is not necessary that all the words should be in given order, but it would be good if they are.
+
+Try to minimize grammatical mistake and check on the syntax. Keep in mind the word limit and try to finish your mail in the described word limit.
+
+Try to finish your mail in 8 minutes and give 2 minutes for spelling mistake. Remember accuracy is the key to pass this round.
+            </roundDetail>
+        </companyPattern>
+
+        <companyPattern>
+            <roundId>2</roundId>
+            <roundName>Aptitude Test</roundName>
+            <roundDetail> 
+After email writing, you have to give analytical test. The test will consist of 35 questions and duration will be 80 minutes.
+         
+There is negative marking and 1/3 marks will be deducted for each marks. There are 4 questions who carry more weightage, try to do them earlier.
+         
+It's also recommended that don't waste much time on a single question.
+         
+Some of the question are very easy. So if you don't know solution of a question, leave that and try to do at later time. Both accuracy and speed is important.
+         
+You can refer to r s agarwal or Arun sharma for practice. Indiabix.com and campusgate.com are also good. Some links are provided in the useful link section.
+         
+Find more online for more practice.
+         
+Also try to appear for exam in early rounds. Don't even think that question are same and you will get help from your friends. They are not stupid.
+         
+If you appear in later rounds, then your interview will delayed according to interval and that could be really frustrating.
+            </roundDetail>
+        </companyPattern>
+
+        <companyPattern>
+            <roundId>3</roundId>
+            <roundName>Technical Round</roundName>
+            <roundDetail>
+In technical round, they mostly ask questions about your point of interest. So tell only those stream in which you have confidence.
+         
+Do not show off and try to cut the talk of your interviewer. That is you should have confidence but not over confidence.
+         
+Also do not say that there is no classes or little classes. Do not say anything negative about your college or department.
+         
+They simply do not care and this affect your chance for placement in a very adverse way.
+         
+In generally you should have knowledge of c, data structure, OOP and DBMS. Basically they will see that whether you have little bit knowledge of coding,
+         
+if yes then you might get on the final list. And most important, most of the questions will be based on your resume. So your resume should be impressive.
+         
+Include the training and curricular activities. Your resume is the key to get you in the final list. Read everything that you include in your resume.
+            </roundDetail>
+        </companyPattern>
+
+
+        <companyPattern>
+            <roundId>4</roundId>
+            <roundName>Human Resources Round</roundName>
+            <roundDetail>
+In this round you will be asked question about puzzle, skill and etc. So gather a good knowledge of logic puzzle.
+         
+Also have some confidence, do not look pale or timid. This is an important round which shows a lot about your personality, intelligence and communication skills.
+         
+See link for more info
+			</roundDetail>
+        </companyPattern>
+
+        <companyPattern>
+            <roundId>5</roundId>
+            <roundName>Management round</roundName>
+            <roundDetail>
+If you get this far, then congratulation. You are almost selected. In this round you will be told about the 2 year bond and they will ask you whether you have anyproblems working out of state. They will also told you about formalities before joining tcs. It is just simple round. </roundDetail>
+        </companyPattern>
+        <companyDocuments>
+Documents:
+1. First you have to register yourself at nextstep.tcs.com. The TPO will release a notification about it, so don't worry.
+
+2. Be sure to click on register for drive a day before placement. It's mandatory.
+
+3. Registration form
+
+4. Resume (At least 3 copies)
+
+5. 2 sets of photocopy of all mark sheet (including 10th and 12th).
+
+6. A document holder which would contain your resume, mark sheet and certificate
+        </companyDocuments>
+        <companyEligibility>
+1.Minimum aggregate (aggregate of all subjects in all semesters) marks of 60% or above in the first
+attempt in each of your Class Xth, Class XIIth, Diploma (if applicable), Graduation and Post-Graduation
+examination which includes successful completion of your final year/semester without any pending
+arrears/back logs during the entire course duration.
+
+2.First attempt implies that you should clear the final year/semester examination (Xth, XIIh, Diploma,
+Graduation and Post-Graduation as applicable) with minimum aggregate (aggregate of all subjects in all
+semesters) marks of 60% and above within the normal duration of the course itself.
+
+3.Completion of all courses Class Xth onwards within the stipulated time as specified by your
+University/Institute and as per the TCSL Selection Guidelines without any extended education. For
+example, if you have a backlog in the final semester of BE, it is considered as extended education as the
+stipulated time to complete BE is 4 years.
+
+4.Maximum upto 1 pending backlog/arrear in the highest qualification will be permitted only at the time of
+appearing for the TCS Selection process. If selected, no pending backlogs will be permitted at the time of
+joining TCS. All pending backlogs should be completed within the normal course duration.
+        </companyEligibility>
+        <companyUsefulLinks>
+				<companyLinkText>TCS Career home page</companyLinkText>
+				<companyLinkDesc>https://careers.tcs.com/careers/index.html#/careers/AS/IN</companyLinkDesc>
+        </companyUsefulLinks>
+		<companyUsefulLinks>
+				<companyLinkText>TCS Next Step Portal</companyLinkText>
+				<companyLinkDesc>https://nextstep.tcs.com/campus/#/</companyLinkDesc>
+        </companyUsefulLinks>
+		<companyUsefulLinks>
+				<companyLinkText>TCS Eligibility Criteria PDF Download</companyLinkText>
+				<companyLinkDesc>http://www.becbapatla.ac.in/html/TCS%20Eligibility%20Criteria.pdf</companyLinkDesc>
+        </companyUsefulLinks>
+		<companyUsefulLinks>
+				<companyLinkText>Campusgate.com TCS Placement Papers</companyLinkText>
+				<companyLinkDesc>http://www.campusgate.co.in/2014/07/tcs-latest-placement-papers.html</companyLinkDesc>
+        </companyUsefulLinks>
+		<companyUsefulLinks>
+				<companyLinkText>Indiabix.com TCS Placement Papers</companyLinkText>
+				<companyLinkDesc>http://www.indiabix.com/placement-papers/tcs/</companyLinkDesc>
+        </companyUsefulLinks>
+		<companyUsefulLinks>
+				<companyLinkText>FresherWorld.com TCS Placement Papers</companyLinkText>
+				<companyLinkDesc>http://placement.freshersworld.com/tcs-question-papers-and-answers/33140000211</companyLinkDesc>
+        </companyUsefulLinks>
+		<companyUsefulLinks>
+				<companyLinkText>ProgrammingGeek TCS Email Writing online simulator</companyLinkText>
+				<companyLinkDesc>http://www.programminggeek.in/2014/05/tcs-verbal-test-simulator-by-programminggeek.html</companyLinkDesc>
+        </companyUsefulLinks>
+		<companyUsefulLinks>
+				<companyLinkText>ProgrammingGeek.com TCS Placement Pattern</companyLinkText>
+				<companyLinkDesc>http://www.programminggeek.in/2014/10/tcs-placement-pattern-for-2015-batch.html</companyLinkDesc>
+        </companyUsefulLinks>
+    </company>
+</placementPonint>

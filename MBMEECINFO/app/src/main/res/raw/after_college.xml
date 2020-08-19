@@ -1,0 +1,119 @@
+<?xml version="1.0" ?>
+<afterCollege>
+    <postCollege>
+        <postCollegeId>1
+        </postCollegeId>
+        <postCollegeName>Provisional Degree
+        </postCollegeName>
+            <document>1. Photo copy of 8th sem marksheet
+2. Ekal Khidki form (go to download)
+3. photocopy of ID (optional)
+            </document>
+            <procedure>1. Fill up the Ekal khidki form completely.
+
+2. Take it to the cash counter in university. (Prefereable between 11 am -12 pm)
+
+3. The fee is as follows-
+200 - if you want to collect it on same day.
+100 - if you want to collect the next day.
+50 - if you want to collect after two days.
+
+4. After taking the fee, the clerk will give you two slips.One original and one carbon copy.
+
+5. Attach the original slip with form and 8th sem marskhhet and submit it to the "Ekal Khidki".
+
+6. If you opt for same day, reach university between 4:30 and 5:00 with the caron copy slip and get provisional from "Ekal Khidki"
+            </procedure>
+			<postCollegeLink>
+				<postCollegeLinkText>Degree form</postCollegeLinkText>
+				<postCollegeLinkDesc>http://jnvuonline.in/pdf/DEGREE-FORM.pdf</postCollegeLinkDesc>
+        </postCollegeLink>
+		<postCollegeLink>
+				<postCollegeLinkText>Duplicate Degree form</postCollegeLinkText>
+				<postCollegeLinkDesc>http://jnvuonline.in/pdf/DUPLICATE-DEGREE-FORM.pdf</postCollegeLinkDesc>
+        </postCollegeLink>
+        </postCollege>
+        <postCollege>
+
+            <postCollegeId>2
+            </postCollegeId>
+            <postCollegeName>Caution Money
+            </postCollegeName>
+            <document>1. Complete No dues form (University)
+2. photo copy of first semester challan fee
+3. an envelope with 25 rs postal tickets with your complete address and contact number
+4. 8th Sem marksheet photo copy
+            </document>
+            <procedure>1. Download the caution money form and fill it completely.Also write SFS and branch name on the top of the form.(see download )
+
+2. Fill this form in following order strictly :
+2.1 First go to library and attested from library supervisor with seal, make sure you have no dues.
+
+2.2 Next step is to get the sign of college physical supervisor. For this, call "Maharaj" (9166589283) and say that you have to sign the caution money form.He will get signed it from HOD of JNVU physicas dept.
+
+2.3 Next take the form to chief Hostel warden office. Make sure that you reach the office before 11 AM.
+
+2.4 After your 8th sem result, take the form to office and get it signed from the cashier.
+
+2.5 Next you have to get the sign of HOD of ECE dept. He will only sig if you have submitted dept no dues form in the office. The form will be given to you on your project viva day.
+
+2.6 The last step is to take all the documents and form to MBM general section office (1st floor) and get it submit there.
+
+            </procedure>
+			<postCollegeLink>
+				<postCollegeLinkText>Caution Money form</postCollegeLinkText>
+				<postCollegeLinkDesc>http://jnvuonline.in/pdf/FORM-REFUND-CAUTION-MONEY.pdf</postCollegeLinkDesc>
+        </postCollegeLink>
+        </postCollege>
+        <postCollege>
+            <postCollegeId>3
+            </postCollegeId>
+            <postCollegeName>Migration Certificate
+            </postCollegeName>
+            <document>1. complete NO dues form.(see download)
+
+2. Migrartion certificate form .You can also get this from cashier in university in 10rs (see download)
+
+3. All semester marksheet photo copy.
+
+4. Ekal Khidki form(see download).
+
+5. photocopy of ID(Optional).
+            </document>
+            <procedure>1. Before you apply for migration, you should have completed no dues form and submitted to college(It's mandatory , not otherwise you have some sort of jack)
+
+2. After filling up the migration form, take it to the general section office (1st floor). he will ask whether you have submitted your no dues form and put a dummy sign .
+
+3. The next step is to take the form to the Assistant Registrar(AR) sir and get it attested with seal.
+
+4. Now fill up the EKAL KHIDKI form and take it along with migration form to cashier in university.
+
+5. He will ask for 200 for same day, 100 for the day after tomorrow, and 50 for after 2 days.
+
+6. Take up all the documents along with the original slip and submit it to the ekal khidki.
+
+7. Collect it.
+            </procedure>
+			<postCollegeLink>
+				<postCollegeLinkText>Migrartion Certificate form</postCollegeLinkText>
+				<postCollegeLinkDesc>http://jnvuonline.in/pdf/FORM-APPLICATION-MIGRATION-CERTIFICATE.pdf</postCollegeLinkDesc>
+        </postCollegeLink>
+        </postCollege>
+        <postCollege>
+            <postCollegeId>4
+            </postCollegeId>
+            <postCollegeName>Character Certificate
+            </postCollegeName>
+            <document>1. 8th sem marksheet
+2. application for issuing of character certificate
+            </document>
+            <procedure>1. Go to the general section office(1st floor) and pay 10 rs and get a slip for character certificate.
+
+2. Write an application which will contain your name, enrollment no, faculty no, branch and request for issuing character certificate.
+
+3. Now submit the application, marksheet and original slip in the office (ground floor).
+
+4. That's it.
+            </procedure>
+        </postCollege>
+    </afterCollege>

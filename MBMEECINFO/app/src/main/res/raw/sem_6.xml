@@ -1,0 +1,158 @@
+<?xml version="1.0" ?>
+<semester>
+	<semID>6</semID>
+	<subject>
+		<subID>1</subID>
+		<subName>Business Information Systems</subName>
+		<subSyllabus>
+Introductory concepts :
+Data and information – creation and qualities; Systems and Business Information Systems – resources, categories; Ebusiness.
+
+Business Automation Hardware – Input and output techniques for business such as Bar-codes, OMR, Printers and storage devices.
+
+Characteristics categories and design of Business Automation Software – graphics, spreadsheets, database, multimedia and web based software.
+
+Networks, telecommunication and internet technologies and devices for business – EDI, RFID, Modems, B2B and B2C.
+
+Information Security – Control over information systems, malware, encryption, decryption, protection of business information.
+		</subSyllabus>
+		<book>Notes only
+		</book>
+	</subject>
+	
+	<subject>
+		<subID>2</subID>
+		<subName>Computer Graphics and Devices</subName>
+		<subSyllabus>
+Introduction to computer graphics. Application areas, Display devices, raster scan, random scan, color monitor, display file, frame buffer.
+
+Points, line, plane and coordinates. Character, vector circle generation algorithms, antialiasing techniques. Representation of polygons. Interfacing and filling polygon. 2 –D Transformations, translation, rotation, scaling, shearing, reflection, composite transformations, raster transformations.
+
+Windows, multiple windowing, view-port, viewing transformation. Clipping algorithm for point, line using Sutherland and Cohen, polygon, text clipping. Segment and segment operation.
+
+Interactive graphics, user dialogue, Input modes, Interactive picture construction technique.
+
+Concept of 3 – D, representation of 3 – D object, 3 – D transformation, translation, rotation, reflection, scaling. Parallel, perspective, isometric projections.
+
+Basic illumination models, halftone, dithering, color model RGB and CMY.
+
+Design and operation of devices such as mouse, tablet, joystick, touch screen, laser and inkjet printers, plotters, LCD and CRT monitors, 3-D display techniques.
+		</subSyllabus>
+		<book>Computer Graphics, C Version - Donald D Hearn, M Pauline Baker
+		</book>
+	</subject>
+	
+	<subject>
+		<subID>3</subID>
+		<subName>Power and Industrial Electronics</subName>
+		<subSyllabus>
+Power electronics devices:
+Characteristics and operation of SCR, PUT, SUS, SBS, SCS, TRIAC, DIAC, IGBT, GTO, MCA and light activated thyristors. Ratings and rating extension by series/parallel operation.
+
+Electronic Power Control:
+Electronic methods of power control. SCR firing methods, Phase control techniques. Line commutation and different typesof commutation. One, two and four quadrant converters. Bridge inverters, series and parallel inverters. Cyclo converters. Introductory study of DC choppers.
+
+Electrical Drives:
+Performance characteristics of series, shunt and compound d.c. motors. Motor starters. Characteristics of single and three phase induction motors, Universal motor, Amplidyne and selsyns.
+
+AC and DC Motor Speed Control:
+Philosophy of speed control, open and closed control and single and three phase AC, DC and universal motors using thyristors. PWM inverter technique and introduction to variable frequency drive
+
+Misc. Industrial Applications:
+Photo relays and their applications, X-ray tubes. Particle accelerators. Principle of Electron Microscope, Uninterruptible supplies. Switched mode power supplies
+
+Programmable Logic Controllers (PLC):
+Advantages of PLC, CPU configurations, Digital and analog inputs and outputs, ladder circuits and process flow diagram. Console and operator panel.
+		</subSyllabus>
+		<book>Power Electronics - Dr P S Bimbhra
+
+A Textbook of Electrical Technology : AC and DC Machines - A K Thareja ( For DC Motor , check other book also)
+		</book>
+	</subject>
+	
+	<subject>
+		<subID>4</subID>
+		<subName>Digital Communication System</subName>
+		<subSyllabus>
+Random Signals:
+Power and energy signals. Introduction to probabilistic and statistical description of discrete and continuous communication processes. Marginal, conditional and joint probability density and density and distribution functions. Stationarity and ergodicity. Auto correlation and Cross correlation functions, Energy spectral density and Power spectral density. Simple linear system analysis under random excitation in time and frequency domains.
+
+Introduction to techniques ASK, FSK, PSK, BPSK, QPSK and simple QAM.
+
+Digital Communication :
+Sampling theorem and principle of pulse analog modulation. Elements of PCM, Delta and adaptive delta modulation. Study of components of digital communication system. Concept TDM, synchronous and asynchronous transmission. Introduction to bit, word and frame synchronization.
+
+Noise :
+Various noise sources in amplifier ASK, FSK BPSK, and simple QAM and communication systems, Comparison of various electronic devices for noise performance, Signal to noise ratio and noise figure. Equivalent noise bandwidth. Noise temperature, Effect of cascading, statistical properties of noise Representation of white and band pass noise in communication systems.
+
+Comparison of analog and digital communication systems.
+System Performance: Noise – performance of analog CW and pulse modulation systems using coherent and non – coherent. Baseband PCM and delta modulation systems, performance in terms of probability of error and S/N ratio. Probability of error performance of band pass systems.
+		</subSyllabus>
+		<book>Communication Systems: Analog and Digital  - Sanjay Sharma
+
+Taub's Principles of Communication Systems - Herbert Taub, Donald Schilling, Gautam Saha
+
+Signals Systems And Communication - B P Lathi
+		</book>
+	</subject>
+	
+	<subject>
+		<subID>5</subID>
+		<subName>Microprocessor and Microcomputer</subName>
+		<subSyllabus>
+Microprocessor Architecture:
+Architecture of 8 – bit 8085, Z80, 6800 microprocessors; their instruction sets and addressing modes. Assembly language programming of Intel’s 8085 Microprocessor. Introduction to assemblers.
+
+Microprocessor Interfacing :
+Interfacing of address; data and control buses Memory and I/O devices, Interrupt and DMA for 8085 microprocessor.
+
+Introduction of Micro controllers :
+Architecture and instruction set of MCS – 51 series of micro controllers. Application of Micro controllers.
+
+16 and 32 – bit Microprocessors:
+CPU architecture addressing modes and feature of 16 and 32 bit microprocessor – 8086. Salient features of 80286, 80386, 80486 and Pentium series microprocessors.
+
+Bus standards:
+Introduction to multibus VME, RS – 232-C, IEEE 488, PCI, USB, RS 422 and 485.</subSyllabus>
+		<book>Fundamentals of Microprocessors And Microcontrollers - B Ram
+
+Microprocessor Architecture, Programming, and Applications with the 8085 - Ramesh Gaonkar
+
+Advanced Microprocessor and Peripherals - K M Bhurchandi, A K Ray
+		</book>
+	</subject>
+	
+	<subject>
+		<subID>6</subID>
+		<subName>Engineering management and Economics</subName>
+		<subSyllabus>
+Principle and Techniques of Management:
+Management function. Theories of management and their application to Indian condition. Responsibility, authority, leadership, motivation, co-ordination and co-operation, change agent, Importance of organization charts and their application to Electronic Industries.
+
+Financial Management :
+Objectives, functions and importance of financial management, Book – keeping, journals and ledgers, Balance sheet, profit and loss accounts, fund flows and financial ratios. Sources of finance and Financial Institutions. Interest and depreciation. Salvage value.
+
+Marketing Management :
+Concept of Marketing and its various components.
+
+Stores and Purchase Management :
+Function of store and Purchase management. Economic order quantity. A-B-C analysis. Inventory control and management. Purchase procedure in Government , Public and Private undertakings, Floating of tenders and Contracts.
+
+Forms of Business :
+Proprietorship, partnership, joint stock companies joint sectors and co-operative movements.
+
+Cost Accountancy :
+Various types of costs, profit/ volume ratio, Break even analysis and marginal costing.
+
+Production planning and control :
+Job Batch and mass production, production efficiency, productivity. Site selection. Production planning Routing, scheduling and follow up. Elements of time and motion study. Quality control and quality assurance.
+
+Nature and Scope of Economics:
+Basic concept of managerial economics. Supply and demand, free competition, monopoly and oligopoly.
+
+		</subSyllabus>
+		<book> Engineering Management and Economics: Banga and Sharma
+		</book>
+	</subject>
+	
+</semester>

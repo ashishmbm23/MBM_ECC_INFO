@@ -1,0 +1,173 @@
+<?xml version="1.0" ?>
+<semester>
+	<semID>5</semID>
+	<subject>
+		<subID>1</subID>
+		<subName>Theory and applications of Integrated Circuits</subName>
+		<subSyllabus>
+Crystal Growth :
+Czochralski and Bridgman growth, wafer preparation and specifications.
+
+Epitaxial Growth :
+Thermodynamics of vapour phase growth, selective growth, MOCVD, Molecular beam epitaxy technology gas source MBE and chemical beam epitaxy.
+
+Oxidation :
+Deal – Grave model, linear and parabolic rate coefficients, oxide characterization, types of oxidation and their kinematics, oxidation induced stacking faults, oxidation systems.
+
+Etching :
+Wet etching, basic regimes of plasma etching, reactive ion etching and its damages, lift – off, and sputter etching.
+
+Lithorgraphy :
+Optical, electron, X-ray and ion-beam, contact/ proximity and projection printers, advanced mask concepts, alignment.
+
+Metallization :
+Applications and choices, physical vapor deposition, patterning, problem areas, multilevel metallization.
+
+VLSI Process Integration :
+NMOS and CMOS IC technology, MOS Memory IC Technology, bipolar IC fabrication.
+
+Assembly Technique and packaging :
+Package types, packaging design consideration, VLSI assembly technologies.
+
+Yield and Reliability :
+Yield loss in VLSI, yield loss modeling, reliability requirements, accelerated testing, BIST.
+
+Applications –
+CMOS inverter, combinational and sequential logic, Arithmetic Building blocks - Adder, multiplier, shifters; Memory and Array Structure: Core, ROM, RAM, peripheral circuitry, memory reliability and yield, SRAM and DRAM design, flash memory.</subSyllabus>
+		<book>
+VLSI Technology - S M Sze
+		</book>
+	</subject>
+	<subject>
+		<subID>2</subID>
+		<subName>Object Oriented Programming</subName>
+		<subSyllabus>
+A review of C. Concepts of object oriented programming using C++. Data Types: elementary and derived data types, literals.
+
+Operators and expressions:
+Operators, association and precedence rules of operators, expressions using unary, binary and ternary operators.
+
+Statements:
+declarations as statements, selection statements, iteration statements, goto statement, break statement return statement, try –catch block.
+
+Functions:
+void functions, functions with return value, call by value and call by reference parameter passing, default parameters, recursive functions,inline functions.
+
+Classes:
+classes, object friend functions, classes within a class, local classes, global classes constructors, destructors.
+
+Derived classes:
+single and multiple derivation of classes, multilevel and hybrid derivation of classes, constructors, destructors.
+
+Polymorphism:
+Function and operator overloading, virtual functions.
+
+Streams:
+input and output of built –in data types, manipulators.
+
+File streams :
+opening a file, accessing a file, closing a file.
+
+Exceptions:
+catching exceptions, rethrowing the exception, standard exceptions.
+
+Templates:
+defining a template, template instantiation, function templates, class templates.
+
+Elementary case study of a object oriented database in C++.
+		</subSyllabus>
+		<book>
+Object Oriented Programming with C++ - E Balagurusamy
+		</book>
+	</subject>
+	<subject>
+		<subID>3</subID>
+		<subName>Design of Data Bases</subName>
+		<subSyllabus>
+Introduction to database systems.  A historical perspective, file systems v/s DBMS, advantages of a DBMS, Data abstraction, models, instances and schemes. Data independence, Data definition and manipulation languages. Database manager, administration and users. Overall system structure.
+
+Entities and entity sets. Relationships and relationship sets. Attributes, mapping, keys, E-R diagram and is conversion to tables. Design of an E-R database scheme.
+
+Structure of relational database. The relational algebra. The tuple and domain relational calculus. Modification of databases and views.
+
+Query languages, SQL and query by examples. Pitfall in relational database design. Normalization using functional, multi valued and join dependencies. Domain key normal form.
+
+Data storage:  Physical storage media, files organization, organisation of records into blocks, sequential files, mapping relational data to files datadictionary storage, buffer management.
+
+Basic concept of indexing and hashing, properties of indexes, index specification in SQL, B* – Tree and B - Tree index files. Hash base indexing, static hash functions, dynamic hash function.
+
+Introduction to object oriented model :  object structure, class hierarchy, multiple inheritance, object identity, object containment, physical organization, object oriented queries, scheme modification. Comparison between RDBMS and OODBMS, crash recovery, failure classification, storage hierarchy.
+
+Transaction model, log-based recovery, Buffer Management, check points, shadow paging, failure with loss of non-volatile storage, stable storage implementation, concurrency control schedule. Testing for serializability, lock-based protocols, Time stamp based protocols, validation techniques.
+		</subSyllabus>
+		<book>
+DATABASE SYSTEM CONCEPTS - Abraham Silberschatz, Henry F Korth, S Sudarshan
+		</book>
+	</subject>
+	<subject>
+		<subID>4</subID>
+		<subName>Analog Communication Engineering</subName>
+		<subSyllabus>
+Introduction to analog techniques for electrical communication. Concept of baseband and carrier transmission. Elementary study of AM, DSBSC SSB, FM and PM.
+
+Amplitude Modulation :
+Analysis of standard AM waves and signal power distribution. Different circuits for amplitude modulation and their comparison. Methods of generating DSBSC, SSB and VSB – AM and their characteristics. Envelope and coherent demodulation methods for standard AM. DSBSC, SSB signals. Design considerations of AM modulators and demodulators. Frequency Division Multiplexing.
+
+Angle modulation :
+Theory of frequency and phase modulations. Spectrum and BW of FM and PM signals. Direct and indirect methods of generating narrow – band and wide band FM. Discriminators and PLL demodulators for FM and PM. Pre-emphasis and de – emphasis. Idea of noise suppression properties of FM and PM systems. Concept of FDM
+		</subSyllabus>
+		<book>
+Communication Systems: Analog and Digital  - Sanjay Sharma
+
+ELECTRONIC COMMUNICATION SYSTEMS - George Kennedy
+
+
+		</book>
+	</subject>
+	<subject>
+		<subID>5</subID>
+		<subName>Radiation and Wave Propagation</subName>
+		<subSyllabus>
+Transmission Lines :
+Type of transmission lines, General transmission line equations. Line constants and equivalent circuits. Infinite line, Lines withreflections.
+
+Coaxial cables:
+Transmission lines at audio and radio frequencies. Losses in transmission lines. Transmission equalizers. Characteristics of quarter wave, half wave and other lengths. Smith chart and its applications. Transmission line applications. Stub matching.
+
+Radio Wave Propagation :
+Mechanism of radio wave propagation. Reflection, refraction interference and diffraction of radio waves. Theory of ground wave, space wave and sky wave propagation. Effect of conductivity, dielectric constant, curvature and surface imperfections of earth on wavepropagation, Duct propagation and tropospheric scattering.
+
+Radiation :
+Retarded potentials and concept of electromagnetic radiation. Alternating current element and radiated power, radiation resistance. Radiation from dipole and monopole antennas.
+
+Antennas:
+Quarter wave and half wave antennas. C-Impedance, mutual impedance and directional characteristics of antennas. Antennas patterns.Effective length and effective area of antennas , Antennas gain efficiency, beamwidth and polarization. Antenna temperature.
+		</subSyllabus>
+		<book>Antenna and Wave Propagation - K D Prasad
+		</book>
+	</subject>
+	<subject>
+		<subID>6</subID>
+		<subName>Computer organization</subName>
+		<subSyllabus>
+Elements of Computer Organization
+Evolution of Computers :
+Generations of Computers, modeling of Computers at Gates, Registers and Processors level.
+
+CPU Architecture :
+Fixed and floating point arithmetic and ALU organization. Instruction format, types, sequencing and interpretation. Instruction fetch and execute cycles. Addressing techniques. Hardwired and Micro – programmed control.
+
+Secondary Memories :
+Magnetic memories core, tape, disk and floppy disc, introduction to magnetic bubble and CCD memories.
+
+I/O Devices :
+Principle and construction of Keyboard, Mouse, digitizer, joystick, optical scanner, Resistive membrane touch screen, Tele-typewriter, CRT Terminals, TFT monitors, Line Dot Matrix, Daisy Wheel, Ink Jet and Laser printers.
+
+Communication of I/O with CPU and memory :
+Speed mismatch of I/O v/s memory and CPU. Communication methods for I/O to CPU and Memory : Polling, interrupt, DMA and I/O channel.
+		</subSyllabus>
+		<book>
+Computer System Architecture - M Morris Mano
+		</book>
+	</subject>
+</semester>

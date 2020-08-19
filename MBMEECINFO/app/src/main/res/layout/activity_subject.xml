@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@id/textView_subjectName"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_gravity="center_horizontal"
+        android:layout_centerHorizontal="true"
+        android:background="#F1F8E9"
+        android:gravity="center"
+        android:text="Ashish"
+        android:textAllCaps="true"
+        android:textColor="#039BE5"
+        android:textSize="25.0sp"
+        />
+
+
+    <ScrollView
+        android:id="@id/scrollView"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="50.0dip"
+        android:layout_marginLeft="5.0dip"
+        android:layout_marginTop="70.0dip">
+
+        <TextView
+            android:id="@id/textView_show_sub"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="40.0dip"
+            android:text=""
+            android:textAppearance="?android:textAppearanceMedium" />
+    </ScrollView>
+</RelativeLayout>

@@ -1,0 +1,615 @@
+<?xml version="1.0" ?>
+    <examPattern>
+    <semesterExam>
+        <semID>1</semID>
+        <semName>Semester 1</semName>
+		<subjectWritten>
+			<subjectName>101 A : ENGINEERING CHEMISTRY</subjectName>
+			<subjectMarks>100</subjectMarks>
+		</subjectWritten>
+		<subjectWritten>
+			<subjectName>102 A : CIVIL and ENVIRONMENT ENGINEERING </subjectName>
+			<subjectMarks>100</subjectMarks>
+		</subjectWritten>
+		<subjectWritten>
+			<subjectName>103 A : MATHEMATICS-I </subjectName>
+			<subjectMarks>100</subjectMarks>
+		</subjectWritten>
+		<subjectWritten>
+			<subjectName>104 A: ENGINEERING MECHANICS</subjectName>
+			<subjectMarks>100</subjectMarks>
+		</subjectWritten>
+		<subjectWritten>
+			<subjectName>105 A: BASIC ELECTRICAL ENGINEERING </subjectName>
+			<subjectMarks>100</subjectMarks>
+		</subjectWritten>
+		<subjectWritten>
+			<subjectName>TOTAL</subjectName>
+			<subjectMarks>500</subjectMarks>
+		</subjectWritten>
+		<subjectPractical>
+			<subjectName>121B: ENGG. GRAPHICS</subjectName>
+			<subjectMarks>100</subjectMarks>
+		</subjectPractical>
+		<subjectPractical>
+			<subjectName>122 B: CHEMISTRY LAB </subjectName>
+			<subjectMarks>100</subjectMarks>
+		</subjectPractical>
+		<subjectPractical>
+			<subjectName>123 B : ENGINEERING MECHANICS LAB 	</subjectName>
+			<subjectMarks>100</subjectMarks>
+		</subjectPractical>
+		<subjectPractical>
+			<subjectName>124 B: CIVIL ENGINEERING LAB</subjectName>
+			<subjectMarks>100</subjectMarks>
+		</subjectPractical>
+		<subjectPractical>
+			<subjectName>125 B: WORKSHOP PRACTICE – I</subjectName>
+			<subjectMarks>100</subjectMarks>
+		</subjectPractical>
+		<subjectPractical>
+			<subjectName>126 B: BASIC ELECTRICAL LAB</subjectName>
+			<subjectMarks>100</subjectMarks>
+		</subjectPractical>
+		<subjectPractical>
+			<subjectName>TOTAL</subjectName>
+			<subjectMarks>600</subjectMarks>
+		</subjectPractical>
+        <semWriiten>
+            Exam          - Marks
+            Chem          - 100
+            Civil         - 100
+            Math-I        - 100
+            Mechanics     - 100
+            elect         - 100
+----------------------------------------------------------
+            Total         - 500
+        </semWriiten>
+        <semPractical>
+            Lab            - Marks
+            Chem           - 50
+            Civil          - 50
+            elect          - 50
+            PG             - 50
+            Workshop       - 50
+----------------------------------------------------------
+            Total          - 250
+        </semPractical>
+    </semesterExam>
+    <semesterExam>
+        <semID>2</semID>
+        <semName>Semester 2</semName>
+		<subjectWritten>
+			<subjectName>151 A : INTRODUCTION TO COMPUTER PROGRAMMING </subjectName>
+			<subjectMarks>100</subjectMarks>
+		</subjectWritten>
+		<subjectWritten>
+			<subjectName>152 A : ENGINEERING PHYSICS  </subjectName>
+			<subjectMarks>100</subjectMarks>
+		</subjectWritten>
+		<subjectWritten>
+			<subjectName>153 A : MATHEMATICS – II</subjectName>
+			<subjectMarks>100</subjectMarks>
+		</subjectWritten>
+		<subjectWritten>
+			<subjectName>154 A : ELEMENTS OF MECHANICAL ENGINEERING</subjectName>
+			<subjectMarks>100</subjectMarks>
+		</subjectWritten>
+		<subjectWritten>
+			<subjectName>155 A : BASIC ELECTRONICS</subjectName>
+			<subjectMarks>100</subjectMarks>
+		</subjectWritten>
+		<subjectWritten>
+			<subjectName>TOTAL</subjectName>
+			<subjectMarks>500</subjectMarks>
+		</subjectWritten>
+		<subjectPractical>
+			<subjectName>171 B : MACHINE DRAWING </subjectName>
+			<subjectMarks>100</subjectMarks>
+		</subjectPractical>
+		<subjectPractical>
+			<subjectName>172 B : PHYSICS LAB</subjectName>
+			<subjectMarks>100</subjectMarks>
+		</subjectPractical>
+		<subjectPractical>
+			<subjectName>173 B : MECHANICAL LAB </subjectName>
+			<subjectMarks>100</subjectMarks>
+		</subjectPractical>
+		<subjectPractical>
+			<subjectName>174 B : HUMANITIES and ENGLISH</subjectName>
+			<subjectMarks>100</subjectMarks>
+		</subjectPractical>
+		<subjectPractical>
+			<subjectName>175 B : WORKSHOP PRACTICE - II</subjectName>
+			<subjectMarks>100</subjectMarks>
+		</subjectPractical>
+		<subjectPractical>
+			<subjectName>176 B : BASIC ELECTRONICS LAB </subjectName>
+			<subjectMarks>100</subjectMarks>
+		</subjectPractical>
+		<subjectPractical>
+			<subjectName>177 B : COMPUTER LAB </subjectName>
+			<subjectMarks>100</subjectMarks>
+		</subjectPractical>
+		<subjectPractical>
+			<subjectName>TOTAL</subjectName>
+			<subjectMarks>700</subjectMarks>
+		</subjectPractical>
+        <semWriiten>
+            Exam           - Marks
+            Comp           - 100
+            Phy            - 100
+            Math-II        - 100
+            Mech           - 100
+            EC             - 100
+--------------------------------------------------------------------
+            Total           - 500
+        </semWriiten>
+        <semPractical>
+            Lab             - Marks
+            Comp            - 50
+            Phy             - 50
+            Mech            - 50
+            EC              - 50
+            MD              - 50
+--------------------------------------------------------------------
+            Total           - 250
+        </semPractical>
+    </semesterExam>
+    <semesterExam>
+        <semID>3</semID>
+        <semName>Semester 3</semName>
+		<subjectWritten>
+			<subjectName>201 A : Advanced Engineering Mathematics - I</subjectName>
+			<subjectMarks>100</subjectMarks>
+		</subjectWritten>
+		<subjectWritten>
+			<subjectName>202 A : Network Theory </subjectName>
+			<subjectMarks>100</subjectMarks>
+		</subjectWritten>
+		<subjectWritten>
+			<subjectName>203 A : Solid State Electronic Devices</subjectName>
+			<subjectMarks>100</subjectMarks>
+		</subjectWritten>
+		<subjectWritten>
+			<subjectName>204 A : Data Structures</subjectName>
+			<subjectMarks>100</subjectMarks>
+		</subjectWritten>
+		<subjectWritten>
+			<subjectName>205 A : Digital Electronics - I</subjectName>
+			<subjectMarks>100</subjectMarks>
+		</subjectWritten>
+		<subjectWritten>
+			<subjectName>206 A : Object Oriented Programming</subjectName>
+			<subjectMarks>100</subjectMarks>
+		</subjectWritten>
+		<subjectWritten>
+			<subjectName>TOTAL</subjectName>
+			<subjectMarks>600</subjectMarks>
+		</subjectWritten>
+		<subjectPractical>
+			<subjectName>211 B : Network Laboratory </subjectName>
+			<subjectMarks>100</subjectMarks>
+		</subjectPractical>
+		<subjectPractical>
+			<subjectName>212 B : Electronic Devices Lab</subjectName>
+			<subjectMarks>100</subjectMarks>
+		</subjectPractical>
+		<subjectPractical>
+			<subjectName>213 B : Data Structures Lab</subjectName>
+			<subjectMarks>100</subjectMarks>
+		</subjectPractical>
+		<subjectPractical>
+			<subjectName>214 B : Digital Electronics Lab</subjectName>
+			<subjectMarks>100</subjectMarks>
+		</subjectPractical>
+		<subjectPractical>
+			<subjectName>215 B : Object Oriented Programming Lab </subjectName>
+			<subjectMarks>100</subjectMarks>
+		</subjectPractical>
+		<subjectPractical>
+			<subjectName>TOTAL</subjectName>
+			<subjectMarks>500</subjectMarks>
+		</subjectPractical>
+        <semWriiten>
+            Exam            - Marks
+            Math-I          - 50
+            NT              - 75
+            SSED            - 75
+            DS              - 75
+            DE-I            - 75
+--------------------------------------------------------------------
+            Total           - 350
+        </semWriiten>
+
+        <semPractical>
+            Lab             - Marks
+            NT              - 50
+            ED              - 50
+            DSA             - 50
+            DE-I            - 50
+            Cpp             - 50
+---------------------------------------------------------------------
+            Total           - 250
+        </semPractical>
+    </semesterExam>
+    <semesterExam>
+        <semID>4</semID>
+        <semName>Semester 4</semName>
+		<subjectWritten>
+			<subjectName>251 A : Advanced Engineering Mathematics - II</subjectName>
+			<subjectMarks>100</subjectMarks>
+		</subjectWritten>
+		<subjectWritten>
+			<subjectName>252 A : Electronics Circuits</subjectName>
+			<subjectMarks>100</subjectMarks>
+		</subjectWritten>
+		<subjectWritten>
+			<subjectName>253 A : Discrete Structures </subjectName>
+			<subjectMarks>100</subjectMarks>
+		</subjectWritten>
+		<subjectWritten>
+			<subjectName>254 A : Digital Electronics - II</subjectName>
+			<subjectMarks>100</subjectMarks>
+		</subjectWritten>
+		<subjectWritten>
+			<subjectName>255 A : Principles of Programming Languages</subjectName>
+			<subjectMarks>100</subjectMarks>
+		</subjectWritten>
+		<subjectWritten>
+			<subjectName>256 A : OPEN ELECTIVE – I*</subjectName>
+			<subjectMarks>100</subjectMarks>
+		</subjectWritten>
+		<subjectWritten>
+			<subjectName>TOTAL</subjectName>
+			<subjectMarks>600</subjectMarks>
+		</subjectWritten>
+		<subjectPractical>
+			<subjectName>261 B : Electronics Circuits Lab</subjectName>
+			<subjectMarks>100</subjectMarks>
+		</subjectPractical>
+		<subjectPractical>
+			<subjectName>262 B : Logic Design Simulation and Testing Lab</subjectName>
+			<subjectMarks>100</subjectMarks>
+		</subjectPractical>
+		<subjectPractical>
+			<subjectName>263 B : Digital Electronics Lab - II</subjectName>
+			<subjectMarks>100</subjectMarks>
+		</subjectPractical>
+		<subjectPractical>
+			<subjectName>264 B : Programming Languages Lab</subjectName>
+			<subjectMarks>100</subjectMarks>
+		</subjectPractical>
+		<subjectPractical>
+			<subjectName>265 B :Electronics Workshop</subjectName>
+			<subjectMarks>100</subjectMarks>
+		</subjectPractical>
+		<subjectPractical>
+			<subjectName>TOTAL</subjectName>
+			<subjectMarks>500</subjectMarks>
+		</subjectPractical>
+        <semWriiten>
+            Exam            - Marks
+            Math-II         - 50
+            EC              - 75
+            DS              - 75
+            DE-II           - 75
+            PPL             - 75
+-------------------------------------------------------------------------
+            Total           - 350
+        </semWriiten>
+        <semPractical>
+            Lab             - Marks
+            EC              - 50
+            LDS             - 50
+            DE-II           - 50
+            PPL             - 50
+            workshop        - 50
+-------------------------------------------------------------------------
+            Total           - 250
+
+        </semPractical>
+    </semesterExam>
+    <semesterExam>
+        <semID>5</semID>
+        <semName>Semester 5</semName>
+		<subjectWritten>
+			<subjectName>301 A : Theory and applications of Integrated Circuits</subjectName>
+			<subjectMarks>50</subjectMarks>
+		</subjectWritten>
+		<subjectWritten>
+			<subjectName>302 A : Object Oriented Programming</subjectName>
+			<subjectMarks>50</subjectMarks>
+		</subjectWritten>
+		<subjectWritten>
+			<subjectName>303 A : Design of Data Bases </subjectName>
+			<subjectMarks>50</subjectMarks>
+		</subjectWritten>
+		<subjectWritten>
+			<subjectName>304 A : Analog Communication Engineering</subjectName>
+			<subjectMarks>50</subjectMarks>
+		</subjectWritten>
+		<subjectWritten>
+			<subjectName>305 A : Radiation and Wave Propagation</subjectName>
+			<subjectMarks>50</subjectMarks>
+		</subjectWritten>
+		<subjectWritten>
+			<subjectName>306 A : Computer Organisation</subjectName>
+			<subjectMarks>50</subjectMarks>
+		</subjectWritten>
+		<subjectWritten>
+			<subjectName>TOTAL</subjectName>
+			<subjectMarks>300</subjectMarks>
+		</subjectWritten>
+		<subjectPractical>
+			<subjectName>311 B : Integrated Circuits Lab</subjectName>
+			<subjectMarks>50</subjectMarks>
+		</subjectPractical>
+		<subjectPractical>
+			<subjectName>312 B : Object Oriented Programming Lab</subjectName>
+			<subjectMarks>75</subjectMarks>
+		</subjectPractical>
+		<subjectPractical>
+			<subjectName>313 B : Databases Lab</subjectName>
+			<subjectMarks>75</subjectMarks>
+		</subjectPractical>
+		<subjectPractical>
+			<subjectName>314 B : Analog Communication Lab</subjectName>
+			<subjectMarks>50</subjectMarks>
+		</subjectPractical>
+		<subjectPractical>
+			<subjectName>315 B : Radiation and Wave Propagation Lab</subjectName>
+			<subjectMarks>50</subjectMarks>
+		</subjectPractical>
+		<subjectPractical>
+			<subjectName>TOTAL</subjectName>
+			<subjectMarks>300</subjectMarks>
+		</subjectPractical>
+        <semWriiten>
+            Exam            - Marks
+            IC              - 50
+            OOP             - 50
+            DBMS            - 50
+            ACE             - 50
+            RWP             - 50
+            COA             - 50
+--------------------------------------------------------------------------
+            Total           - 300
+        </semWriiten>
+        <semPractical>
+            Lab             - Marks
+            IC              - 50
+            OOP             - 75
+            DBMS            - 75
+            ACE             - 50
+            RWP             - 50
+----------------------------------------------------------------------------
+            Total           - 300
+        </semPractical>
+    </semesterExam>
+    <semesterExam>
+        <semID>6</semID>
+        <semName>Semester 6</semName>
+			<subjectWritten>
+			<subjectName>351 A : Business Information Systems</subjectName>
+			<subjectMarks>50</subjectMarks>
+		</subjectWritten>
+		<subjectWritten>
+			<subjectName>352 A : Computer Graphics and Devices</subjectName>
+			<subjectMarks>75</subjectMarks>
+		</subjectWritten>
+		<subjectWritten>
+			<subjectName>353 A : Power and Industrial Electronics</subjectName>
+			<subjectMarks>50</subjectMarks>
+		</subjectWritten>
+		<subjectWritten>
+			<subjectName>354 A : Digital Communication System</subjectName>
+			<subjectMarks>75</subjectMarks>
+		</subjectWritten>
+		<subjectWritten>
+			<subjectName>355 A : Microprocessor and Microcomputer</subjectName>
+			<subjectMarks>50</subjectMarks>
+		</subjectWritten>
+		<subjectWritten>
+			<subjectName>356 A : Engineering Management and Economics</subjectName>
+			<subjectMarks>50</subjectMarks>
+		</subjectWritten>
+		<subjectWritten>
+			<subjectName>TOTAL</subjectName>
+			<subjectMarks>350</subjectMarks>
+		</subjectWritten>
+		<subjectPractical>
+			<subjectName>361 B : Computer Graphics Lab</subjectName>
+			<subjectMarks>50</subjectMarks>
+		</subjectPractical>
+		<subjectPractical>
+			<subjectName>362 B : Power and Industrial Electronics Lab</subjectName>
+			<subjectMarks>50</subjectMarks>
+		</subjectPractical>
+		<subjectPractical>
+			<subjectName>363 B : Digital Communication Lab</subjectName>
+			<subjectMarks>50</subjectMarks>
+		</subjectPractical>
+		<subjectPractical>
+			<subjectName>364 B : Microprocessor Lab</subjectName>
+			<subjectMarks>50</subjectMarks>
+		</subjectPractical>
+		<subjectPractical>
+			<subjectName>365 B : Business Automation Lab</subjectName>
+			<subjectMarks>50</subjectMarks>
+		</subjectPractical>
+		<subjectPractical>
+			<subjectName>TOTAL</subjectName>
+			<subjectMarks>250</subjectMarks>
+		</subjectPractical>
+        <semWriiten>
+            Exam            - Marks
+            BIS             - 50
+            CG              - 75
+            PIE             - 50
+            DCS             - 75
+            EMC             - 50
+-------------------------------------------------------------------------
+            Total           - 350
+        </semWriiten>
+        <semPractical>
+            Lab             - Marks
+            CG              - 50
+            PIE             - 50
+            DCS             - 50
+            MP              - 50
+            BA              - 50
+-------------------------------------------------------------------------
+            Total           - 300
+        </semPractical>
+    </semesterExam>
+    <semesterExam>
+        <semID>7</semID>
+        <semName>Semester 7</semName>
+				<subjectWritten>
+			<subjectName>401 A : VLSI Design Techniques</subjectName>
+			<subjectMarks>75</subjectMarks>
+		</subjectWritten>
+		<subjectWritten>
+			<subjectName>402 A : Design of Operating Systems</subjectName>
+			<subjectMarks>75</subjectMarks>
+		</subjectWritten>
+		<subjectWritten>
+			<subjectName>403 A : Advance Communication System</subjectName>
+			<subjectMarks>75</subjectMarks>
+		</subjectWritten>
+		<subjectWritten>
+			<subjectName>404 A : Advance Computer Technology</subjectName>
+			<subjectMarks>75</subjectMarks>
+		</subjectWritten>
+		<subjectWritten>
+			<subjectName>405 A : Elective - I</subjectName>
+			<subjectMarks>75</subjectMarks>
+		</subjectWritten>
+		<subjectWritten>
+			<subjectName>TOTAL</subjectName>
+			<subjectMarks>375</subjectMarks>
+		</subjectWritten>
+		<subjectPractical>
+			<subjectName>421 B : VLSI Simulation Lab</subjectName>
+			<subjectMarks>75</subjectMarks>
+		</subjectPractical>
+		<subjectPractical>
+			<subjectName>422 B : Operating Systems Lab</subjectName>
+			<subjectMarks>75</subjectMarks>
+		</subjectPractical>
+		<subjectPractical>
+			<subjectName>423 B : Advance Communication System Lab</subjectName>
+			<subjectMarks>75</subjectMarks>
+		</subjectPractical>
+		<subjectPractical>
+			<subjectName>425 B : Project</subjectName>
+			<subjectMarks>--</subjectMarks>
+		</subjectPractical>
+		<subjectPractical>
+			<subjectName>TOTAL</subjectName>
+			<subjectMarks>225</subjectMarks>
+		</subjectPractical>
+        <semWriiten>
+            Exam            - Marks
+            VLSI            - 75
+            OS              - 75
+            ACS             - 75
+            ACT             - 75
+            TELE            - 75
+--------------------------------------------------------------------------
+            Total           - 375
+        </semWriiten>
+        <semPractical>
+            Lab             - Marks
+            VLSI            - 75
+            OS              - 75
+            ACS             - 75
+----------------------------------------------------------------------------
+            Total           - 225
+        </semPractical>
+    </semesterExam>
+    <semesterExam>
+        <semID>8</semID>
+        <semName>Semester 8</semName>
+		<subjectWritten>
+			<subjectName>451 A : Real Time and Embedded Systems</subjectName>
+			<subjectMarks>50</subjectMarks>
+		</subjectWritten>
+		<subjectWritten>
+			<subjectName>452 A : Computer Communication and Data Network</subjectName>
+			<subjectMarks>50</subjectMarks>
+		</subjectWritten>
+		<subjectWritten>
+			<subjectName>453 A : Multimedia systems</subjectName>
+			<subjectMarks>50</subjectMarks>
+		</subjectWritten>
+		<subjectWritten>
+			<subjectName>454 A : Mobile Communication and Computing</subjectName>
+			<subjectMarks>50</subjectMarks>
+		</subjectWritten>
+		<subjectWritten>
+			<subjectName>455 A : Elective - II</subjectName>
+			<subjectMarks>50</subjectMarks>
+		</subjectWritten>
+		<subjectWritten>
+			<subjectName>TOTAL</subjectName>
+			<subjectMarks>250</subjectMarks>
+		</subjectWritten>
+		<subjectPractical>
+			<subjectName>421 B : Embedded Systems Lab</subjectName>
+			<subjectMarks>50</subjectMarks>
+		</subjectPractical>
+		<subjectPractical>
+			<subjectName>422 B : Computer Networking Lab</subjectName>
+			<subjectMarks>75</subjectMarks>
+		</subjectPractical>
+		<subjectPractical>
+			<subjectName>423 B : Multimedia Lab</subjectName>
+			<subjectMarks>75</subjectMarks>
+		</subjectPractical>
+		<subjectPractical>
+			<subjectName>423 B : Multimedia Lab</subjectName>
+			<subjectMarks>50</subjectMarks>
+		</subjectPractical>
+		<subjectPractical>
+			<subjectName>425 B : Project</subjectName>
+			<subjectMarks>150</subjectMarks>
+		</subjectPractical>
+		<subjectPractical>
+			<subjectName>476 C : Practical Training</subjectName>
+			<subjectMarks>75</subjectMarks>
+		</subjectPractical>
+		<subjectPractical>
+			<subjectName>477 C : Educational Tour</subjectName>
+			<subjectMarks>25</subjectMarks>
+		</subjectPractical>
+		
+		<subjectPractical>
+			<subjectName>TOTAL</subjectName>
+			<subjectMarks>750</subjectMarks>
+		</subjectPractical>
+        <semWriiten>
+            Exam            - Marks
+            RTES            - 50
+            CCDN            - 50
+            MULTI           - 50
+            MOBILE          - 50
+            DSP             - 50
+------------------------------------------------------------------------------
+            Total           - 250
+        </semWriiten>
+        <semPractical>
+            Lab             - Marks
+            EMBEDDED        - 50
+            CCDN            - 75
+            MULTIMEDIA      - 75
+            MOBILE          - 50
+            PROJECT         - 150
+            TRAINING        - 75
+            TOUR            - 25
+------------------------------------------------------------------------------
+            Total           - 500
+        </semPractical>
+    </semesterExam>
+</examPattern>

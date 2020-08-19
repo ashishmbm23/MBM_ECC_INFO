@@ -1,0 +1,380 @@
+<?xml version="1.0" ?>
+<semester>
+	<!--<semID>4</semID>-->
+	<subject>
+		<subID>1</subID>
+		<subName>Applied Engineering Mathematics–II</subName>
+		<subSyllabus>
+		Section A
+Transforms: 
+Laplace Transform, Inverse Laplace Transform, Properties of Laplace Transforms, Application of Laplace Transform to solve differential equation with constant coefficients. Z- Transforms. Infinite Fourier Transforms.
+
+Section B
+Numerical Analysis : 
+Interpolation with equal intervals: Newton-Gregory interpolation formulae, Lagrange’s interpolation formula for unequal intervals. Central difference interpolation formulae: Gauss’ forward and backward formulae, Stirling’ s and Bessel’s interpolation formulae. Numerical integration : Trapezoidal rule, Simpson’ s 1/3 and 3/8 rule. Numerical solution of algebraic and transcendental equations : Bisection, regula falsi and Newton-Raphson methods. Numerical solution of linear simultaneous equations : Gauss’ elimination, Gauss-Jordon, Jacobi and Gauss-Siedal methods. Numerical solution of ordinary differential equations : Euler’s, Runge-Kutta Fourth order and Milne’s methods.
+
+Section C
+Special function : 
+Series solution of Bessel and Legendre’s differential equations. Generating function of Bessel and Legendre’s Polynomials. Orthogonal Property of
+Bessel and Legendre’s function. Rodrigue’s formula.
+
+Note: Candidates are required to attempt FIVE questions in all, selecting at least one from each Section
+		</subSyllabus>
+		<book>1. Differentail Equation  - Bansal and Dhami
+2. Laplase transform - Goyal and Gupta
+3. Numerical methods - B S Grewal
+
+		</book>
+	</subject>
+
+	<subject>
+		<subID>2</subID>
+		<subName>Electronic Circuits</subName>
+		<subSyllabus>
+Biasing:
+Biasing and stabilization techniques of BJT, JFET, MOSFET for use as amplifiers in various configurations. Small signal models for BJT, JFET and MOSFET in discrete and integrated form. Frequency dependence characterization and equivalent circuits. Miller effect.
+
+Untuned small signal BJT amplifiers:
+Study of Single stage and multistage. RC coupled and transformer coupled amplifiers. Frequency response, bandwidth, gain and factors affecting them. Various two transistor integrated circuit amplifier stages. Introduction of d.c. amplifiers, differential amplifiers, Cascode and Darlington circuits. Follower circuits and boot-strapping.
+
+Untuned large signal amplifiers:
+Classification of power amplifiers. Study of single ended,parallel and push-pull Class A, AB and B power amplifiers. Complementary, symmetry and quasi-complementary circuits, Driver and out-put stages, with and without out-put transformers for power amplifiers. Output circuit efficiency calculations for various classes and configuration of amplifiers. Thermal considerations. Derating curves.
+
+Power Supply Circuit:
+Design factors and applications of various power supply filters and voltage multiplying rectifier circuits.
+
+Regulated Power Supplies:
+Regulator circuits using solid state devices and monolithic ICS. Adjustable constant voltage power supplies. Adjustable constant current power supplies. Higher output power supplies with solid state pre-regulations. Protection circuits for power supplies. Rating and specifications.
+		</subSyllabus>
+		<book>Millman's Electronic Devices and Circuits - JAcob Millman, Christos C. Halkias, Satyabrata Jit
+		</book>
+	</subject>
+
+	<subject>
+		<subID>3</subID>
+		<subName>Discrete Structures</subName>
+		<subSyllabus>
+Introduction to Discrete Mathematical Structures,Formal Methods: Induction and Analogy, Abstraction.
+
+Sets, sequences, empty set, power set, operations on sets, Venn diagram, ordered pair, principle of inclusion and exclusion.
+
+Introduction to mathematical logic, statements and notations, well-formed formulas, tautologies, tautological implications, normal forms, the theory of Inference for statement calculus, predicate logic.
+
+Graph Terminology, Degrees of Nodes, Isomorphic Graphs, Dijkstra’s Shortest Path Algorithm, Planar Graphs, Eulerian Graphs, Hamiltonian Graphs, Traveling Salesman Problem.
+
+Trees Introduction Rooted and other Trees, Representation of Prefix Codes, Representation of Arithmetic Expression, Representation of Prefix Codes, Spanning Trees, Traversing Binary Trees, Binary Search Trees.
+
+Relations, matrix and graph representation of relation, properties of relations, partitions. Equivalence Relations, Compatibility Relations, Composition of Binary Relations, Transitive and Symmetric closures partially ordered set lattices.
+
+Functions, Matrix representation of functions, composition of function, inverse-function.
+
+Algebraic Structures, General properties of algebraic systems, groupoids, semigroup, monoids group rings. Applications of algebra to control structure of a program. Homomorphism, Congruences, admissible partitions. Group and their graph</subSyllabus>
+		<book>
+FUNDAMENTALS OF DISCRETE MATHE STRUCTURES - Dr K R Chowdhary
+DISCRETE MATHEMATICAL STRUCTURES - Kolman, Busby, Ross
+		</book>
+	</subject>
+	
+	<subject>
+		<subID>4</subID>
+		<subName>Digital Electronic – II</subName>
+		<subSyllabus>
+Counters and Registers:
+Binary and decade ripple counters. One bit counters. Up, down and up-down, synchronous counters. Programmable counters. Divide-by N counters. Storage registers, shift-right, shift-left and bi-directional shift registers. Serial input, serial output, parallel input, parallel output, parallel-in-serial out, serial in parallel out and Universal shift registers and synchronous parallel loading of shift registers. Static and dynamic MOS shift registers. Ring and Johnson counters
+
+Arithmetic Circuits:
+Digital Comparators, half, and full adders; parallel and serial binary adders, half and full binary subtractors. BCD adders and subtracters. Binary multipliers and divider circuits
+
+Miscellaneous Sub-systems:
+Encoders, decoders and code converters. Parity checking circuits. Multiplexers and demultiplexers. Digital to analog and analog to digital converters.
+
+Semi-conductor memories:
+Random and sequential access memories. RAM, ROM, PROM, EPROM.EEPROM, EAPROM, EPLA, GALs. MOS and CMOS memories
+		</subSyllabus>
+		<book>
+Digital Circuits and Design - S Salivahanan, S Arivazhagan
+		</book>
+	</subject>
+	
+	<subject>
+		<subID>5</subID>
+		<subName>Principles of Programming Languages</subName>
+		<subSyllabus>
+Importance of programming languages, brief history, features of good programming language. Translators, Syntax, semantics, virtual computers. Binding and binding time.
+
+Elementary and structured data types, their specification and implementation. Type checking and type conversion, vectors arrays, records, character string, variable size data structures. Sets, input and output files.
+
+Evolution of the concept of data type, abstraction, encapsulation and information hiding, subprograms, type definition and abstract data types.
+
+Implicit and explicit sequence control, sequence control within expression and between statements. Subprogram sequence control, Recursive subprograms. Exception and exception handlers, Coroutines and scheduled subprograms. Task and concurrency, exceptions.
+
+Names and referencing environments, Static, dynamic and block structure, Local data and local referencing environments.
+
+Dynamic and static scope of shared data, Block structure, parameters and their transmission. Tasks and shared data. Storage requirement for major run –time elements. Program and system controlled storage management. Static and stack – based storage management. Fixed size and variable – size heap storage management.
+		</subSyllabus>
+		<book>
+Programming Languages - Terrence W Pratt, Marvin V Zelkowitz, T V Gopal
+		</book>
+	</subject>
+	
+	<subject>
+		<subID>6</subID>
+		<subName>Logic design Simulation and testing(Practical Exam)</subName>
+		<subSyllabus>
+Sequential Logic:
+Storage devices and sequential sub-systems. Introduction to synchronous and asynchronous sequential systems. Mealey and Moore circuits. Cost vs. speed.
+
+Synchronous Sequential Systems:
+Introductory examples. The finite state model – basic definition. Memory elements and their excitation functions. Synthesis of synchronous sequential circuits. Analysis and design of synchronous sequential circuits. State assignment and reduction technique. Introduction to threshold logic and relay circuits.
+
+Asynchronous Sequential Systems:
+Fundamental mode circuits, Analysis procedure. Circuits with latches. State assignment in Asynchronous sequential circuits. Design of pulse mode asynchronous sequential circuits. Problems in asynchronous circuits – Races and Hazards.
+		</subSyllabus>
+		<book>
+Digital Logic and Computer Design - M Morris Mano
+		</book>
+	</subject>
+	
+	<subject>
+		<subID>7</subID>
+		<subName>Special Mathematics</subName>
+		<subSyllabus>
+Statics:
+Composition and resolution of coplanar forces Moments. Equilibrium of coplanar forces acting at a point, Equilibrium of three forces acting on a rigid body. Resultant and equilibrium of coplanar forces acting on a rigid body friction. Common catenary.
+
+Dynamics: Composition and resolution of velocities and accelerations. Relative velocity. Rectilinear motion, linear constant acceleration. Vertical motion under gravity. Rectilinear motion under variable law offers and also in resisting medium. Kinematics of uniplaner motion</subSyllabus>
+		<book>Mathematics vol 2 for jnvu - Gokhroo</book>
+	</subject>
+	<subject>
+		<subID>8</subID>
+		<subName>BCT 291 A Open Elective-I: Sustainable Architecture</subName>
+		<subSyllabus>Concepts of sustainability :
+Energy and Global environment, Energy use and Climate change – Its impact, Types of Energy systems, Concept of Sustainability - Principles of conservation -synergy with nature, Bioregionalism - community basis shelter technology within bioregional patterns and scales, Ethical- environmental degradation.
+
+Sustainable planning and Design:
+Sustainable Development -Sustainable approach to site planning and design - site inventories- relationships between site factors - development impacts from one area of the site on the other areas - phasing of development - limits of change - Design facility within social and environmental thresholds
+
+Sustainable Building Materials and Construction : 
+Properties, Uses and Examples of -Primary, secondary and Tertiary Sustainable Materials, Principles to improve the energy efficiency - siting and vernacular design, shade, ventilation, earth shelter, thermal inertia and air lock entrances. Techniques of sustainable construction - technologies, methods of effectiveness, and design synthesis – alternative materials and construction methods: solar water heating panels; photovoltaic electricity generation; use of local materials and on site growth of food, fuel and building materials.
+
+Recycling and Reuse : 
+Pre building, Building, Post building stages - Architectural Reuse, Waste prevention, Construction and Demolition recycling- Conservation of natural and building resources- Energy and material savings – types of wastes - Elimination of waste and minimize pollution- various Decomposing methods – Innovative reuse of various wastes Case Studies and Rating systems : Sustainable Development Case Studies: illustrated examples of the planning, development, and construction. Green architecture and various international rating systems for sustainability- EAM (UK), CASBEE (Japan), LEED (US), Green Star (Australia), etc. – Indian systems – TERI GRIHA rating, LEED India rating, IGBC</subSyllabus>
+		<book>To be updated soon</book>
+	</subject>
+	<subject>
+		<subID>9</subID>
+		<subName>CE 291A Open Elective-I :Energy Efficient Building Design</subName>
+		<subSyllabus>Environment and man, external environment and built environment, Built-environment – integrated approach.
+
+Climate: 
+elements of climate, classification of climate, Micro-climate, site climate.
+
+Comfort: 
+desirable conditions, thermal comfort factors, comfort indices, effective and corrected effective temp. Tropical summer index.
+
+Thermal Design: 
+heat loss from a building under steady state condition, heat gains due to solar radiation, steady state and cyclic conditions, Means of thermal control – mechanical, structural control, air infiltration into buildings by natural means, shape of buildings,-thermal cube, fabric heat loss, ventilation loss and volume.
+
+Light and Lighting: 
+illumination requirement, day-lighting, artificial lighting, energy conservation.
+
+Noise Control: 
+Sources of noise, means of control, control requirements, behaviour of sound in rooms, vibration and vibration control.
+Building Services: Mechanical and electrical services in building, lifts, escalators.</subSyllabus>
+		<book>To be updated soon</book>
+	</subject>
+		<subject>
+		<subID>10</subID>
+		<subName>ChE 291 A Open Elective-I : Renewable Energy Sources</subName>
+		<subSyllabus>Sources of energy: 
+Energy sources and their availability, renewable energy sources.
+
+Energy from Biomass: 
+Introduction, Biomass as a source of energy, Biomass conversion technologies, Biogas generation, classification of biogas plants, Biomass gasification.
+
+Solar Energy: 
+Sun and solar energy, solar radiation and its measurement, solar energy collectors, solar energy storage, Photovoltaic systems, Application of solar energy.
+
+Wind Energy: 
+Wind as an Energy source, Basic principles of wind energy conversion, Types of Wind machines, Components of wind energy conversion system, Performance of wind machines, application of wind energy.
+
+Geothermal Energy: 
+Introduction, Origin and distribution of geothermal energy, types of geothermal resources, Hybrid geothermal power plant, Application of 
+geothermal energy.
+
+Hydrogen energy: Introduction, Hydrogen production, Hydrogen storage, Hydrogen transportation.
+Energy from the Oceans: Introduction, Ocean Thermal Electric Conversion (OTEC), Energy from Tides, Ocean Waves.</subSyllabus>
+		<book>To be updated soon</book>
+	</subject>
+	
+<subject>
+		<subID>11</subID>
+		<subName>CSE 292A - OBJECT ORIENTED PROGRAMMING THROUGH JAVA</subName>
+		<subSyllabus>Overview of object oriented concepts in JAVA.
+
+Introduction – 
+Java and internet, java applets and its applications, Java features like – security, portability, byte code, java virtual Machine, object oriented, robust, multi threading, architectural neutral, distributed and dynamic.
+
+Data types and control structures, operators, arrays, Java methods and classes.
+
+Inheritance of procedures and data, Packages and interface, exception handling, multi-threaded programming – thread priorities, synchronization, messaging, creating and controlling of threads. IO and applets.
+
+String handling and various string functions.
+
+Java utilities like java.lang, java.util and their uses, java.io, basics of networking using Java.
+
+Java applets and their use, event handling, AWT and working with windows.
+
+Introductory study of Java Beans, Servelets and JDBC.</subSyllabus>
+		<book>To be updated soon</book>
+	</subject>
+	<subject>
+		<subID>12</subID>
+		<subName>EE 291 A Open Elective I: Industrial Application Of Electrical Drives</subName>
+		<subSyllabus>Operating-Characteristics : 
+Individual, group and collective drives, steady state individual and joint characteristics of electric motors and driven industrial units under different conditions of operation.
+
+Transient Characteristics : 
+Causes of transient conditions starting, braking, reversing, speed transition and sudden system changes. Forces and torques on the drives referred to a common reference shaft. General equation of motion, Accelerating and deaccelerating times. Starting and braking time and means of reducing.
+
+Drives Control : 
+Parameters characterizing speed control methods of electric drives, speed control of Industrial d.c. and a.c. motors under constant and varying torque and h.p. conditions.
+
+Families of speed torque characteristics : 
+Idea of manual and automatic control gears, Master-controller.
+
+Motor Ratings : 
+Continuous-short time and intermittent ratings, overload capacity. Effect of altitude, Motor heating and cooling curves. Equivalent current, power and torque. Selection motor for various duty cycles. Permissible frequency of starting, features of load diagram construction. Load equalisation and use of fly wheels. Types of motor enclosures.
+
+Illumination : 
+Units of light, Point , linear and surfact sources. Laws of illumination. Candle power distribution, MSCP and reduction factor, Indoor lighting system and their classification. Contrast, glare, shadow and colour. Mounting height and spacing. General and local lighting Total lumen and point by point methods of calculations. Outdoor lighting distributor and protector fittings. Isolux diagram. Flood, gas, discharge and arc-lamp-working, characteristics and applications.
+
+Electric Heating and Welding : 
+Principles of electric heating. Direct and indirect resistance heating, lead baths and salf baths. Resistance oven convection and rediation ovens. Arc resistance and induction furnance, elements of operation, performance and power supply arrangements. temperature regulation of ovens and furnances. Induction, high frequency and dielectric heating and their uses. Elementary study of different kinds of electric welding operation, Power supply for welding. Elements of Electrics Traction : Electric traction versus others System of electric traction for tramways, trolley buses, motor coach trains and locomotive hauled trains. Idea about suitability of electric motor for traction. Conductor rail and pantograph. meaning for multiple-unit operation.
+
+Economics : 
+Methods for economic selection of Industrial drives, loss factor and cost of losses, Effect of load factor. Power factor and factory diversity factor. Methods of power factor improvement and its economic limit. Economic calculations for illumination schemes Echnomic value of good lighting.</subSyllabus>
+		<book>To be updated soon</book>
+	</subject>
+	<subject>
+		<subID>13</subID>
+		<subName>Ma-291 A Open Elective-I :Mathematical Statistics for Engineers</subName>
+		<subSyllabus>Theory of probability : 
+Theoretical probability distribution (Binomial, Poisson and Normal ).
+
+Correlation and Regression Analysis : 
+Karl-Pearson’s coefficient , Spearman’s coefficient, Regression analysis of two variables system.
+
+Sampling Theory : 
+Test of significance, Large sample tests for mean and proportions. χ2 (chi-square) , t and F Test of significance for Small sample.
+
+Theory of attributes: 
+association and independence of attributes, coefficient of association.
+
+Index Number: 
+Various types of index numbers, construction of index number of prices, fixed base and chain base methods.
+</subSyllabus>
+		<book>To be updated soon</book>
+	</subject>
+	<subject>
+		<subID>14</subID>
+		<subName>ME- 291A Open Elective-I: Renewable Energy Sources</subName>
+		<subSyllabus>Principal types of fossil fuel fired power plants and their effects on livestock and environment; Concepts of NCES, Criteria for assessing the potential of NCES, Limitations of RES.
+
+Solar Energy : 
+Solar radiation data, solar energy conversion into heat, Analysis of Flat plate and Concentrating collectors, Testing procedures, Paraboloid Dish, Central Receiver; concept of collector tracking, energy storage systems; Solar thermal systems for residential water heating, Solar Pond, industrial process heating and power generation. Photo voltaic: p-n junctions, I-V characteristics of solar cells, Calculation of energy for photovoltaic power generation; Battery Characteristics, DC Power Conditioning Converters, AC Power Conditioning -Inverters.
+
+Wind Energy: 
+Energy available from wind, General formula, Lift and drag. Basis of Wind energy conversion, Effect of density, Frequency variances, Angle of attack, Wind speed, Determination of torque coefficient, Principle of Operation of wind turbines, types of wind turbines and characteristics, Generators for Wind Turbines, Control strategies.
+
+Biomass and Biofuels: 
+Conversion routes- combustion, pyrolysis of biomass to produce solid, liquid and gaseous fuels; Constructional details of gasifier; Aerobic and anaerobic digestion, Biofuels and their production; biofuels, Biomass systems for thermal applications and power generation.
+
+Geothermal Energy: 
+Definition and classification of resources, typical geothermal gradient; Dry, flash and binary steam systems; Utilization for electricity generation and direct heating, Wellhead power generating units. Basic features: Atmospheric exhaust and condensing, Exhaust types of conventional steam turbines.
+An overview of other renewable devices- Fuel cells: principle, types, applications; Ocean thermal energy conversion (OTEC), Thermoelectric, MHD, Wave energy, Tidal energy, etc.
+
+Economic Viability: 
+Calculation of the cost of energy supply from renewables, Payback period, Carbon footprints; Comparison with conventional fossil fuel driven systems in terms of costs and emissions; Calculation of carbon dioxide reduction and incremental costs for renewable options.
+</subSyllabus>
+		<book>To be updated soon</book>
+	</subject>
+	<subject>
+		<subID>15</subID>
+		<subName>ME 292 A Open Elective-I: Automobile Engineering</subName>
+		<subSyllabus>Power Unit: 
+Automobile engine types, classification; Engine parts: cylinder head, block and crank case, piston and rings; Carburation, fuel injection, valve operation; Fuel combustion, mechanical power and engine performance characteristics; Engine cooling and thermal stresses in parts,.
+
+Chassis and Suspension: 
+Load on frame, general considerations for strength and stiffness, engine mounting; Dampers, leaf and coil springs, various arrangements of suspension systems.
+Transmission System: Clutches, flywheels, torque convertors; Gear-box: simple, synchromesh and overdrive; Type of universal joints, propeller shaft, 
+
+differential; 
+Rolling, air, gradient resistances and propulsive power calculation.
+
+Steering: 
+Steering geometry, Ackermann and Davis steering mechanisms; Telescopic steering; Steering shaft, gear-box, linkages, steering angles, front and rear axles; Vehicle longitudinal, static and dynamic balancing and electronic stability; Power steering: types and mechanism; Effect of caster, camber, toe-in and toe-out on tyre wear.
+
+Brakes and Tyres: 
+Servo-action, brake components; Bendix and Gerling system lock-head, hydraulic, vacuum, air and power brakes, and retarders; Pneumatic and tubeless tyres;
+Features of a Modern passanger Car: Introduction to ABS, Front and side air bags, EBD, Climatizer, ESP, night-vision dashboard system; sun-roofing, collision warning system, Hybrid cars.
+</subSyllabus>
+		<book>To be updated soon</book>
+	</subject>
+	<subject>
+		<subID>16</subID>
+		<subName>MI 291A Open Elective-I: Tunneling for Engineering Projects (MI)</subName>
+		<subSyllabus>Tunneling: 
+Introduction about tunnels, functions, advantages and disadvantages of tunnels compared to open cuts, Criteria for selection of size and shape of tunnels, consideration in tunneling, geological investigation, tunnel alignment, tunnel shafts, pilot tunnels. Advantages of twin tunnels and pilot tunnels, portals and adits.
+
+Conventional Method of Tunneling: 
+Drilling, Blasting, Loading and Transport of Muck, Supports, Ventilation, Drainage, and Equipments. Drivage work in varying ground conditions using conventional methods
+
+Fast Tunneling: 
+Dill jumbos, trackless mucking and transportation units. Tunnel boring machine
+Tunneling in Soft Ground: General characteristics of soft ground, shield methods, needle beam method and NATM method of tunneling in practice.
+Tunneling (rock bolting and guniting), Safety measures, Ventilation in tunneling, Lighting, Drainage.
+</subSyllabus>
+		<book>To be updated soon</book>
+	</subject>
+<subject>
+		<subID>17</subID>
+		<subName>MI 291A Open Elective-I: Tunneling for Engineering Projects (MI)</subName>
+		<subSyllabus>History and introduction to science of basic manufacturing processes and its classification.
+
+Primary manufacturing processes: 
+Introduction to liquid state forming process (casting), solid state forming process (drawing, extrusion, rolling, forging and other sheet metal working) and power state forming process (powder metallurgy).
+
+Secondary manufacturing processes: 
+Introduction to material removal processes
+Conventional Machining processes (basic machining operations performed of lathe, shaper, milling, drilling and grinding machine).
+
+Introduction to basic metal joining processes (welding, brazing, soldering and mechanical fastening).
+Non conventional machining processes (Basic introduction, classification, need for their development, characteristics and their industrial applications).
+</subSyllabus>
+		<book>To be updated soon</book>
+	</subject>
+<subject>
+		<subID>18</subID>
+		<subName>SE 291 A OPEN ELECTIVE -I: Computer oriented Numerical Analysis</subName>
+		<subSyllabus>Error Analysis:- 
+Approximations and errors, Round off errors.
+
+Roots of Equations:- 
+Bisection method, Newton – Raphson method.
+
+Curve Fitting:- 
+Linear Regression, Least Square Ft, Co-relation.
+
+Interpolation:- 
+Linear and Quadratic, Newton’s and Lagrange’s polynomials.
+
+Numerical Differentiation:- 
+Forward / Backward / Centered F.D. method.
+
+Numerical Integration:- 
+Trapezodial rule, Simpson’s rule.Solution of simultaneous Linear algebraic equations.
+</subSyllabus>
+		<book>To be updated soon</book>
+	</subject>
+</semester>
